@@ -1,0 +1,7 @@
+{
+  "dck": 928,
+  "patterns": {
+    "OWS": "^[0-9]{6,7}$"
+  },
+  "corrections": {}
+}

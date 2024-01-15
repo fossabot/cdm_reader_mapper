@@ -1,0 +1,7 @@
+{
+  "dck": 218,
+  "patterns": {
+    "us_ows_folio": "^[0-9]{5}$"
+  },
+  "corrections": {}
+}

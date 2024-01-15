@@ -1,0 +1,10 @@
+{
+  "dck": 892,
+  "patterns": {
+    "callsign": "^([0-9]{1}[A-Z]{1}|^[A-Z]{1}[0-9]{1}|^[A-Z]{2})[A-Z0-9]{1,}$",
+    "SHIP": "^SHIP$"
+  },
+  "corrections": {},
+  "valid_min_date": "",
+  "valid_max_date": ""
+}

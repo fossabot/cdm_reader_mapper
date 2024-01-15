@@ -1,0 +1,22 @@
+name: mdf_reader-test
+
+channels:
+    - conda-forge
+    - nodefaults
+
+dependencies:
+    - pandas
+    - dask
+    - matplotlib
+    - xarray
+    - datashader
+    # for testing
+    - pytest
+    - pytest-cov
+    - pytest-env
+    #from pypi
+    - pip:
+      - msgpack
+      - requests
+      - timezonefinder
+      - unidecode

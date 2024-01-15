@@ -1,0 +1,8 @@
+{
+  "dck": 239,
+  "patterns": {
+    "HMS": "^[0-9]{5}$"
+  },
+  "corrections": {},
+  "notes": "id matches to deck 926 with 00 prepended"
+}

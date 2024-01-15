@@ -1,0 +1,13 @@
+{
+  "dck": 197,
+  "patterns": {
+    "logbook_series": "^[0-9A-Z]{4}[0-9]{3}$",
+    "logbook": "^[0-9A-Z]{4}$",
+    "series": "^[0-9]{3}$",
+    "id_6dig_d197_CHECK": "^[0-9]{6}$",
+    "id_P5dig_d197_CHECK": "^P[0-9]{5}$",
+    "id_Q5dig_d197_CHECK": "^Q[0-9]{5}$",
+    "blank": "^$"
+  },
+  "corrections": {}
+}

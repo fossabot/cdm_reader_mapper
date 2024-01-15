@@ -1,0 +1,10 @@
+{
+  "dck": 195,
+  "patterns": {
+    "ship_number": "^[0-9]{5}$",
+    "ship_number_dash_CHECK": "^-[0-9]{4}$",
+    "blank": "^$"
+  },
+  "corrections": {},
+  "notes": "ship class available on punch cards"
+}

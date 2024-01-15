@@ -1,0 +1,19 @@
+{
+  "dck": 926,
+  "patterns": {
+    "callsign": "^([0-9]{1}[A-Z]{1}|^[A-Z]{1}[0-9]{1}|^[A-Z]{2})[A-Z0-9]{1,}$",
+    "callsign_lc": "^([0-9]{1}[a-z]{1}|^[a-z]{1}[0-9]{1}|^[a-z]{2})[a-z0-9]{1,}$",
+    "ESURFMAR": "^(AMO|BAR|BAT|IDD|MIN|SCA|TBW)(AA|UK|FR|DE|EU)[0-9]{2}$",
+    "SHIP": "^SHIP$",
+    "N_sp_callsign": "^([0-9] [0-9]{1}[A-Z]{1}|^[0-9] [A-Z]{1}[0-9]{1}|^[0-9] [A-Z]{2})[A-Z0-9]{1,}$",
+    "NNcallsign": "^[0-9]{2}[A-Z]{4}$",
+    "IMM_3dig_shipno": "^[0-9]{3}$",
+    "IMM_4dig_shipno": "^[0-9]{4}$",
+    "IMM_5dig_shipno": "^[0-9]{5}$",
+    "IMM_6dig_shipno": "^[0-9]{6}$",
+    "NNNcallsign": "^[0-9]{3}[0-9][A-Z]{3}$"
+  },
+  "corrections": {},
+  "valid_min_date": "",
+  "valid_max_date": ""
+}

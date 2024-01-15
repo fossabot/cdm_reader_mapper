@@ -1,0 +1,9 @@
+{
+  "dck": 189,
+  "patterns": {
+    "selected": "^[0-9]{4}08$",
+    "supplementary": "^[0-9]{4}1[4-6]{1}$",
+    "blank": "^$"
+  },
+  "corrections": {}
+}

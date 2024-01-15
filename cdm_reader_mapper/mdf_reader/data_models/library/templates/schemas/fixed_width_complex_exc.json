@@ -1,0 +1,183 @@
+{
+  "header": {
+    "format": "fixed_width",
+    "delimiter": null,
+    "parsing_order": [
+      {
+        "s": [
+          "s1"
+        ]
+      },
+      {
+        "e": [
+          "e1",
+          "e1",
+          "eN"
+        ]
+      },
+      {
+        "s": [
+          "s2",
+          "s3"
+        ]
+      }
+    ],
+    "date_parser": {
+      "section": "",
+      "elements": [],
+      "format": []
+    }
+  },
+  "sections": {
+    "s1": {
+      "header": {
+        "sentinal": null,
+        "sentinal_length": null,
+        "length": ""
+      },
+      "elements": {
+        "": {
+          "description": "",
+          "field_length": "",
+          "column_type": "",
+          "missing_value": "",
+          "codetable": "",
+          "ignore": "",
+          "encoding": "",
+          "scale": "",
+          "offset": "",
+          "valid_max": "",
+          "valid_min": "",
+          "precision": "",
+          "keep_blank": false,
+          "datetime_format": "%Y%m%d"
+        }
+      }
+    },
+    "e1": {
+      "header": {
+        "sentinal": "",
+        "sentinal_length": "",
+        "length": ""
+      },
+      "elements": {
+        "": {
+          "description": "",
+          "field_length": "",
+          "column_type": "",
+          "missing_value": "",
+          "codetable": "",
+          "ignore": "",
+          "encoding": "",
+          "scale": "",
+          "offset": "",
+          "valid_max": "",
+          "valid_min": "",
+          "precision": "",
+          "keep_blank": false,
+          "datetime_format": "%Y%m%d"
+        }
+      }
+    },
+    "e2": {
+      "header": {
+        "sentinal": "",
+        "sentinal_length": "",
+        "length": ""
+      },
+      "elements": {
+        "": {
+          "description": "",
+          "field_length": "",
+          "column_type": "",
+          "missing_value": "",
+          "codetable": "",
+          "ignore": "",
+          "encoding": "",
+          "scale": "",
+          "offset": "",
+          "valid_max": "",
+          "valid_min": "",
+          "precision": "",
+          "keep_blank": false,
+          "datetime_format": "%Y%m%d"
+        }
+      }
+    },
+    "eN": {
+      "header": {
+        "sentinal": "",
+        "sentinal_length": "",
+        "length": ""
+      },
+      "elements": {
+        "": {
+          "description": "",
+          "field_length": "",
+          "column_type": "",
+          "missing_value": "",
+          "codetable": "",
+          "ignore": "",
+          "encoding": "",
+          "scale": "",
+          "offset": "",
+          "valid_max": "",
+          "valid_min": "",
+          "precision": "",
+          "keep_blank": false,
+          "datetime_format": "%Y%m%d"
+        }
+      }
+    },
+    "s2": {
+      "header": {
+        "sentinal": null,
+        "sentinal_length": null,
+        "length": ""
+      },
+      "elements": {
+        "": {
+          "description": "",
+          "field_length": "",
+          "column_type": "",
+          "missing_value": "",
+          "codetable": "",
+          "ignore": "",
+          "encoding": "",
+          "scale": "",
+          "offset": "",
+          "valid_max": "",
+          "valid_min": "",
+          "precision": "",
+          "keep_blank": false,
+          "datetime_format": "%Y%m%d"
+        }
+      }
+    },
+    "s3": {
+      "header": {
+        "sentinal": null,
+        "sentinal_length": null,
+        "length": null
+      },
+      "elements": {
+        "": {
+          "description": "",
+          "field_length": "",
+          "column_type": "",
+          "missing_value": "",
+          "codetable": "",
+          "ignore": "",
+          "encoding": "",
+          "scale": "",
+          "offset": "",
+          "valid_max": "",
+          "valid_min": "",
+          "precision": "",
+          "keep_blank": false,
+          "datetime_format": "%Y%m%d"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "dck": 211,
+  "patterns": {
+    "MARID_folio": "^[0-9]{5}$",
+    "MARID": "^$"
+  },
+  "corrections": {}
+}

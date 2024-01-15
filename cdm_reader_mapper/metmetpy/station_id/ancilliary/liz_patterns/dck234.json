@@ -1,0 +1,7 @@
+{
+  "dck": 234,
+  "patterns": {
+    "ows_logbook": "^[0-9]{5}$"
+  },
+  "corrections": {}
+}

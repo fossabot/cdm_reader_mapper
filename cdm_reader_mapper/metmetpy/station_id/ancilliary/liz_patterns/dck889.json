@@ -1,0 +1,11 @@
+{
+  "dck": 889,
+  "patterns": {
+    "callsign": "^([0-9]{1}[A-Z]{1}|^[A-Z]{1}[0-9]{1}|^[A-Z]{2})[A-Z0-9]{1,}$",
+    "CNNN": "^[A-Z][0-9]{3}$",
+    "SHIP": "^SHIP$"
+  },
+  "corrections": {},
+  "valid_min_date": "",
+  "valid_max_date": ""
+}

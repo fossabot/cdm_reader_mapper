@@ -1,0 +1,28 @@
+{
+  "header": {
+    "format": "fixed_width",
+    "delimiter": null,
+    "date_parser": {
+      "elements": [],
+      "format": []
+    }
+  },
+  "elements": {
+    "": {
+      "description": "",
+      "field_length": "",
+      "column_type": "",
+      "missing_value": "",
+      "codetable": "",
+      "ignore": "",
+      "encoding": "",
+      "scale": "",
+      "offset": "",
+      "valid_max": "",
+      "valid_min": "",
+      "precision": "",
+      "keep_blank": false,
+      "datetime_format": "%Y%m%d"
+    }
+  }
+}

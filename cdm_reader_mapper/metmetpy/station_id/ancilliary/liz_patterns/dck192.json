@@ -1,0 +1,29 @@
+{
+  "dck": 192,
+  "patterns": {
+    "code_logsheet": "^[0-9]{2}[0-9]{6}$",
+    "small_coastal_sailing": "^00[0-9]{6}$",
+    "sailing_vessel": "^01[0-9]{6}$",
+    "sailing_vessel_alpha": "^01[0-9]{2}[A-Z][0-9]{3}$",
+    "steamer": "^02[0-9]{6}$",
+    "warship": "^03[0-9]{6}$",
+    "small_boat_weather_book": "^04[0-9]{6}$",
+    "fishing_steamer": "^05[0-9]{6}$",
+    "logbook_form_1_gmt": "^06[0-9]{6}$",
+    "logbook_form_2_lst": "^07[0-9]{6}$",
+    "logbook_form_3_gmt": "^08[0-9]{6}$",
+    "Denmark": "^(09|41)[0-9]{6}$",
+    "Norway": "^(10|30)[0-9]{6}$",
+    "Holland": "^11[0-9]{6}$",
+    "France": "^(13|40)[0-9]{6}$",
+    "instruments_only": "^60[0-9]{6}$",
+    "beaufort_weather": "^61[0-9]{6}$",
+    "descriptive_weather": "^62[0-9]{6}$",
+    "weather_clouds_copenhagen": "^64[0-9]{6}$",
+    "weather_copenhagen": "^65[0-9]{6}$",
+    "undocumented": "^(12|14|20|22|32|33|37|39|44|45|50|51|63|70|74|80)[0-9]{6}$",
+    "id_620NC_d192_CHECK": "^620[0-9][A-Z]{1}$",
+    "blank": "^$"
+  },
+  "corrections": {}
+}

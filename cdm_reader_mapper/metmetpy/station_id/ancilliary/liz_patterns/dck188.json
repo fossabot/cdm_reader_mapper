@@ -1,0 +1,7 @@
+{
+  "dck": 188,
+  "patterns": {
+    "shipnumber": "^[0-9]$|^-$"
+  },
+  "corrections": {}
+}

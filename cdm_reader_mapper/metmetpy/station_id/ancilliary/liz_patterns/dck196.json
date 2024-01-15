@@ -1,0 +1,9 @@
+{
+  "dck": 196,
+  "patterns": {
+    "ship_number": "^[0-9]{3}$",
+    "blank": "^$"
+  },
+  "corrections": {},
+  "notes": "ship class available on punch cards"
+}

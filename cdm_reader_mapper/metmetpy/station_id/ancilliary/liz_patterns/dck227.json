@@ -1,0 +1,8 @@
+{
+  "dck": 227,
+  "patterns": {
+    "logbook": "^[0-9]{5}$",
+    "blank": "^$"
+  },
+  "corrections": {}
+}

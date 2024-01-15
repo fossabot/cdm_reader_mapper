@@ -1,0 +1,7 @@
+{
+  "dck": 736,
+  "patterns": {
+    "shipname": "^[ 0-9A-Za-z\\\\_(*&'.]{1,}$"
+  },
+  "corrections": {}
+}

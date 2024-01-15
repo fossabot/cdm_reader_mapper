@@ -1,0 +1,53 @@
+{
+  "header": {
+    "format": "delimtied",
+    "delimiter": "",
+    "date_parser": {
+      "section": "",
+      "elements": [],
+      "format": []
+    }
+  },
+  "sections": {
+    "section 1": {
+      "elements": {
+        "": {
+          "description": "",
+          "field_length": "",
+          "column_type": "",
+          "missing_value": "",
+          "codetable": "",
+          "ignore": "",
+          "encoding": "",
+          "scale": "",
+          "offset": "",
+          "valid_max": "",
+          "valid_min": "",
+          "precision": "",
+          "keep_blank": false,
+          "datetime_format": "%Y%m%d"
+        }
+      }
+    },
+    "section N": {
+      "elements": {
+        "": {
+          "description": "",
+          "field_length": "",
+          "column_type": "",
+          "missing_value": "",
+          "codetable": "",
+          "ignore": "",
+          "encoding": "",
+          "scale": "",
+          "offset": "",
+          "valid_max": "",
+          "valid_min": "",
+          "precision": "",
+          "keep_blank": false,
+          "datetime_format": "%Y%m%d"
+        }
+      }
+    }
+  }
+}

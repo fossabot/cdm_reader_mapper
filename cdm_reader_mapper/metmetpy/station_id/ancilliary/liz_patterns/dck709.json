@@ -1,0 +1,7 @@
+{
+  "dck": 709,
+  "patterns": {
+    "callsign_us_navy": "^([0-9]{1}[A-Z]{1}|^[A-Z]{1}[0-9]{1}|^[A-Z]{2})[A-Z0-9]{1,}$"
+  },
+  "corrections": {}
+}

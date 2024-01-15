@@ -1,0 +1,13 @@
+{
+  "dck": 927,
+  "patterns": {
+    "callsign": "^([0-9]{1}[A-Z]{1}|^[A-Z]{1}[0-9]{1}|^[A-Z]{2})[A-Z0-9]{1,}$",
+    "SHIP": "^SHIP$",
+    "id_5dig": "^[0-9]{5}$",
+    "id_dash_3dig_CHECK": "^-[0-9]{3}$",
+    "id_4dig_CHECK": "^[0-9]{4}$"
+  },
+  "corrections": {},
+  "valid_min_date": "",
+  "valid_max_date": ""
+}

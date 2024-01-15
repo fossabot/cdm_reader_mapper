@@ -1,0 +1,8 @@
+{
+  "dck": 203,
+  "patterns": {
+    "selected_ships_folio": "^[0-9]{5}$",
+    "blank": "^$"
+  },
+  "corrections": {}
+}

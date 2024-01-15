@@ -1,0 +1,7 @@
+{
+  "dck": 703,
+  "patterns": {
+    "id_5digit": "^[0-9]{5}$"
+  },
+  "corrections": {}
+}

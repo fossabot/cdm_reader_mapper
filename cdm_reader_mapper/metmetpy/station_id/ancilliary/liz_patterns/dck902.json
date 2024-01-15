@@ -1,0 +1,7 @@
+{
+  "dck": 902,
+  "patterns": {
+    "id_8dig": "^[0-9]{8}"
+  },
+  "corrections": {}
+}

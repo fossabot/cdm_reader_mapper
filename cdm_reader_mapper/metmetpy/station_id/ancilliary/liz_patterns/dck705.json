@@ -1,0 +1,7 @@
+{
+  "dck": 705,
+  "patterns": {
+    "MMJ_sheet_number": "^(AS|OS|AU|BX|CH|CI|CN|CU|CZ|DD|DL|DN|DR|FI|FR|GR|HK|HO|IY|JP|MX|NK|NL|NO|PH|PL|PM|PO|RA|RS|SN|SP|SW|TH|TU|UK|US|YG)[0-9]{6}$"
+  },
+  "corrections": {}
+}

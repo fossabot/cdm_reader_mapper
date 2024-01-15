@@ -1,0 +1,11 @@
+{
+  "dck": 896,
+  "patterns": {
+    "OWS": "^C7|^4Y$",
+    "buoy_number": "^[1-9]{1}[0-9]{4}",
+    "SHIP": "^SHIP$",
+    "PLAT": "^PLAT$",
+    "RIGG": "^RIGG$"
+  },
+  "corrections": {}
+}

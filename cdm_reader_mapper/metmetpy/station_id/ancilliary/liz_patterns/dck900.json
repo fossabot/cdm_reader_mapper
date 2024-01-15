@@ -1,0 +1,7 @@
+{
+  "dck": 900,
+  "patterns": {
+    "AU_ship_number": "^[0-9]{3}$"
+  },
+  "corrections": {}
+}

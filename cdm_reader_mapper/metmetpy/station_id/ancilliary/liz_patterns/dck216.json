@@ -1,0 +1,7 @@
+{
+  "dck": 216,
+  "patterns": {
+    "UK_metforms": "^[0-9]{6}$"
+  },
+  "corrections": {}
+}

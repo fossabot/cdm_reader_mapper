@@ -1,0 +1,7 @@
+{
+  "dck": 186,
+  "patterns": {
+    "valid": "^00[0-9]{2}$"
+  },
+  "corrections": {}
+}

@@ -1,0 +1,2016 @@
+   1  A.A.DREB|ERT               A.A.DREBERT                        2
+   2  A.B.STUR|GES               A.B.STURGES                        6
+   3  A.CHESEB|ROUGH             A.CHESEBROUGH                      3
+   4  A.F.JENN|ESS               A.F.JENNESS                        2
+   5  A.H.HOWL|ANDS              A.H.HOWLANDS                       1
+   6  A.HAYFOR|D                 A.HAYFORD                          5
+   7  A.MC.PUN|SE                A.MC.PUNSE                         1
+   8  ABBOT   |                  ABBOT                              2
+   9  ABCOMA  |                  ABCOMA                             1
+  10  ABEONA  |                  ABEONA                             3
+  11  ABERDEEN|                  ABERDEEN                          13
+  12  ABOUKIN |                  ABOUKIN                            1
+  13  ABR.BARK|ER                ABR.BARKER                         3
+  14  ABR.N.HO|WLARD             ABR.N.HOWLARD                      1
+  29  ACASTA  |                  ACASTA                             2
+  30  ACKBAR  |                  ACKBAR                             1
+  31  ACORN   |                  ACORN                              2
+  32  ACTIF   |                  ACTIF                              1
+  33  ACTIVE  |                  ACTIVE                             7
+  34  ACTOS   |                  ACTOS                              6
+  35  ACTRESS |                  ACTRESS                            1
+  36  ACUSHNET|                  ACUSHNET                          10
+  37  ADDELINE|_GIBBS            ADDELINE GIBBS                     7
+  38  ADDISON |                  ADDISON                           13
+  39  ADELA*  |                  ADELAIDE                          11
+  40  ADELA*_M|ETCALF            ADELAIDE METCALF                   3
+  41  ADIRONDA|CK                ADIRONDACK                         1
+  42  ADJUSTER|                  ADJUSTER                           5
+  43  ADLER   |                  ADLER                              7
+  44  ADMIRAL |                  ADMIRAL                            2
+  45  ADRIANA |                  ADRIANA                            2
+  46  ADRIANNA|                  ADRIANNA                           3
+  47  ADVANCE |                  ADVANCE                            1
+  48  AERONAUT|                  AERONAUT                           6
+  49  AFFGHAN |                  AFFGHAN                            1
+  50  AFRICA  |                  AFRICA                            43
+  52  AFRICAN_|MET.ABSTRACT      AFRICAN MET. ABSTRACT              2
+  51  AFRICAN_|MET.ABSTRACT      AFRICAN MET.  ABSTRACT             1
+  53  AGENORIA|                  AGENORIA                           2
+  54  AGNES   |                  AGNES                              7
+  55  AGRICOLA|                  AGRICOLA                           2
+  15  AJ*(N1) |                  ABSTRACT JOURNALS (N1)             1
+  16  AJ*(N10)|                  ABSTRACT JOURNALS (N10)            1
+  17  AJ*(N11)|                  ABSTRACT JOURNALS (N11)            1
+  18  AJ*(N12)|                  ABSTRACT JOURNALS (N12)            1
+  19  AJ*(N13)|                  ABSTRACT JOURNALS (N13)            1
+  20  AJ*(N14)|                  ABSTRACT JOURNALS (N14)            1
+  21  AJ*(N2) |                  ABSTRACT JOURNALS (N2)             1
+  22  AJ*(N3) |                  ABSTRACT JOURNALS (N3)             1
+  23  AJ*(N4) |                  ABSTRACT JOURNALS (N4)             2
+  24  AJ*(N5) |                  ABSTRACT JOURNALS (N5)             1
+  25  AJ*(N6) |                  ABSTRACT JOURNALS (N6)             1
+  26  AJ*(N7) |                  ABSTRACT JOURNALS (N7)             2
+  27  AJ*(N8) |                  ABSTRACT JOURNALS (N8)             1
+  28  AJ*(N9) |                  ABSTRACT JOURNALS (N9)             1
+  56  AJAX    |                  AJAX                               1
+  57  AKBAR   |                  AKBAR                             15
+  58  ALABAMA |                  ALABAMA                           16
+  59  ALADDIN |                  ALADDIN                            2
+  60  ALAN_KER|                  ALAN KER                           1
+  61  ALARM   |                  ALARM                              7
+  62  ALBANIA |                  ALBANIA                            2
+  63  ALBANY  |                  ALBANY                            12
+  64  ALBERS  |                  ALBERS                             3
+  65  ALBERT  |                  ALBERT                             5
+  66  ALBERT_E|DWARD             ALBERT EDWARD                      1
+  67  ALBERT_F|RANKLIN           ALBERT FRANKLIN                    4
+  68  ALBERT_G|ALLATIN           ALBERT GALLATIN                   19
+  69  ALBERT_H|ENRY              ALBERT HENRY                       2
+  70  ALBION  |                  ALBION                            49
+  71  ALCIOPE |                  ALCIOPE                            2
+  72  ALDEBARA|N                 ALDEBARAN                          7
+  73  ALERT   |                  ALERT                              3
+  74  ALEXA*  |                  ALEXANDER                         25
+  75  ALEXA*_C|OFFIN             ALEXANDER COFFIN                   8
+  76  ALFRED_H|AMMOND            ALFRED HAMMOND                     6
+  77  ALFRED_T|YLER              ALFRED TYLER                       1
+  78  ALICE   |                  ALICE                              4
+  79  ALICE_TH|ORNDIKE           ALICE THORNDIKE                    3
+  80  ALIGATOR|                  ALIGATOR                           1
+  81  ALIPORE |                  ALIPORE                            4
+  82  ALLBREE |                  ALLBREE                            1
+  83  ALLEGHAN|Y                 ALLEGHANY                          8
+  84  ALMEIDA |                  ALMEIDA                            1
+  85  ALMIRA  |                  ALMIRA                             2
+  86  ALMIRA_O|F_EGARTON         ALMIRA OF EGARTON                  1
+  87  ALPS    |                  ALPS                               2
+  88  AMA*    |                  AMAZON                            11
+  89  AMA*BALT|IMORE             AMAZON OF BALTIMORE                3
+  90  AMA*BANG|OR                AMAZON OF BANGOR                   2
+  91  AMBASSAD|OR                AMBASSADOR                         2
+  94  AME*_GUE|RNSEY             AMERICA OF GUERNSEY                2
+  95  AME*_NEW|_BEDFORD          AMERICA OF NEW BEDFORD             1
+  92  AMELIA  |                  AMELIA                             4
+  96  AMERI*  |                  AMERICAN                          17
+  97  AMERI*_C|ONGRESS           AMERICAN CONGRESS                  4
+  98  AMERI*_E|AGLE              AMERICAN EAGLE                     1
+  99  AMERI*_U|NION              AMERICAN UNION                     1
+  93  AMERICA |                  AMERICA                           52
+ 100  AMETHYST|                  AMETHYST                           5
+ 101  AMITY   |                  AMITY                             12
+ 102  AMULET  |                  AMULET                             1
+ 103  ANCHOR  |                  ANCHOR                             3
+ 104  ANDALUSI|A                 ANDALUSIA                          2
+ 105  ANDORINH|A                 ANDORINHA                          1
+ 106  ANDOVER |                  ANDOVER                            2
+ 107  ANDREW_F|OSTER             ANDREW FOSTER                     17
+ 108  ANDREW_M|.JONES            ANDREW M. JONES                    2
+ 109  ANGELIQU|E                 ANGELIQUE                          3
+ 110  ANGLO_AM|ERICAN            ANGLO AMERICAN                     2
+ 111  ANGLO_SA|XON               ANGLO SAXON                        2
+ 112  ANITA   |                  ANITA                              4
+ 113  ANN     |                  ANN                               16
+ 121  ANNA    |                  ANNA                               3
+ 122  ANNA_KIM|BALL              ANNA KIMBALL                       2
+ 123  ANNA_MAR|IA                ANNA MARIA                         1
+ 124  ANNIE_BU|CKNAM             ANNIE BUCKNAM                      7
+ 114  ANN_HOOD|                  ANN HOOD                           2
+ 115  ANN_HOPE|                  ANN HOPE                           1
+ 116  ANN_MARI|A                 ANN MARIA                          8
+ 117  ANN_MARY|_ANN              ANN MARY ANN                       1
+ 118  ANN_SOPH|IA                ANN SOPHIA                         1
+ 119  ANN_WAYN|E                 ANN WAYNE                         17
+ 120  ANN_WELS|H                 ANN WELSH                         10
+ 125  ANONYMA |                  ANONYMA                            1
+ 126  ANTAGONI|ST                ANTAGONIST                         1
+ 127  ANTARTIC|                  ANTARTIC                           7
+ 128  ANTELOPE|                  ANTELOPE                           8
+ 129  APOLLO  |                  APOLLO                            44
+ 130  AQUETNET|                  AQUETNET                           3
+ 131  ARAB    |                  ARAB                              24
+ 132  ARABELLA|                  ARABELLA                           3
+ 133  ARABIA  |                  ARABIA                            23
+ 134  ARAGO   |                  ARAGO                              1
+ 135  ARCADIA |                  ARCADIA                            3
+ 136  ARCHER  |                  ARCHER                             2
+ 137  ARCHIBAL|D_GRACIE          ARCHIBALD GRACIE                   2
+ 138  ARCHITEC|T                 ARCHITECT                          2
+ 139  ARCOLE  |                  ARCOLE                            13
+ 140  ARCTIC  |                  ARCTIC                             1
+ 141  ARDENNES|                  ARDENNES                           2
+ 142  ARETHUSA|                  ARETHUSA                           3
+ 143  ARGE    |                  ARGE                               1
+ 144  ARGO    |                  ARGO                              17
+ 145  ARGONAUT|                  ARGONAUT                           7
+ 146  ARGUS   |                  ARGUS                              1
+ 147  ARIADNE |                  ARIADNE                            2
+ 148  ARIANA  |                  ARIANA                             3
+ 149  ARIEL   |                  ARIEL                             11
+ 150  ARLINGTO|N                 ARLINGTON                          6
+ 151  ARNO    |                  ARNO                               1
+ 152  ARNOLDA |                  ARNOLDA                            3
+ 153  ARONO   |                  ARONO                              3
+ 154  ARRABIDA|                  ARRABIDA                           1
+ 156  ARTHUR  |                  ARTHUR                             3
+ 157  ARTHUR_O|F_ABO             ARTHUR OF ABO                      6
+ 158  ARTHUR_P|ICKERING          ARTHUR PICKERING                   8
+ 155  ART_UNIO|N                 ART UNION                          8
+ 159  ARVUM   |                  ARVUM                              3
+ 160  ASAIR   |                  ASAIR                              1
+ 161  ASCOLD  |                  ASCOLD                            13
+ 162  ASHBUR*N|                  ASHBURTON                         48
+ 163  ASHBUR*R|                  ASHBURTOR                          1
+ 164  ASHLAND |                  ASHLAND                           17
+ 165  ASIA    |                  ASIA                              35
+ 166  ASOP    |                  ASOP                               2
+ 167  ASPASIA |                  ASPASIA                            1
+ 168  ASTRACHA|N                 ASTRACHAN                          1
+ 169  ASTRAEA |                  ASTRAEA                            1
+ 170  ATALANTA|                  ATALANTA                           1
+ 171  ATHENS  |                  ATHENS                             4
+ 172  ATLANTIC|                  ATLANTIC                           7
+ 173  ATLAS   |                  ATLAS                              3
+ 174  ATTICA  |                  ATTICA                            18
+ 175  AUCKLAND|                  AUCKLAND                           2
+ 176  AUDUBON |                  AUDUBON                            7
+ 177  AUGUSTO |                  AUGUSTO                            3
+ 178  AUGUSTUS|                  AUGUSTUS                           2
+ 179  AURA    |                  AURA                               2
+ 180  AURELIA |                  AURELIA                            2
+ 181  AURORA  |                  AURORA                             8
+ 182  AUSTIN  |                  AUSTIN                             2
+ 183  AUSTISS |                  AUSTISS                            1
+ 184  AUSTRALI|A                 AUSTRALIA                          3
+ 185  AVELINA |                  AVELINA                            1
+ 186  AVERICK |                  AVERICK                            8
+ 187  AVONDALE|                  AVONDALE                           4
+ 188  AWASHONK|S                 AWASHONKS                          9
+ 189  AZELIA  |                  AZELIA                             8
+ 190  AZOF    |                  AZOF                               6
+ 191  B.AYMAR |                  B.AYMAR                            4
+ 192  B.D.METC|ALF               B.D.METCALF                        3
+ 193  B.F.HOXI|E                 B.F.HOXIE                          2
+ 194  BAINBRID|GE                BAINBRIDGE                        24
+ 195  BALD_EAG|LE                BALD EAGLE                         6
+ 196  BALENA  |                  BALENA                             7
+ 197  BALTIC  |                  BALTIC                            21
+ 198  BALTIMOR|E                 BALTIMORE                         12
+ 199  BARBACHA|N                 BARBACHAN                          1
+ 200  BARBARA |                  BARBARA                            8
+ 201  BARNEY_M|ASON              BARNEY MASON                       2
+ 202  BARNSTAB|LE                BARNSTABLE                         1
+ 203  BASHAU  |                  BASHAU                             1
+ 204  BASHAU_O|F_BOSTON          BASHAU OF BOSTON                   2
+ 205  BAVARIA |                  BAVARIA                            2
+ 206  BAVARIA_|OF_NEW_YORK       BAVARIA OF NEW YORK               15
+ 207  BAY_STAT|E                 BAY STATE                          1
+ 208  BELISARI|US                BELISARIUS                         4
+ 209  BELL    |                  BELL                               1
+ 210  BELLE_OF|_THE_WEST         BELLE OF THE WEST                  3
+ 211  BELOOCHE|E                 BELOOCHEE                          2
+ 212  BELVIDER|E                 BELVIDERE                          1
+ 213  BENGAL  |                  BENGAL                            10
+ 214  BENJA*_F|RANKLIN           BENJAMIN FRANKLIN                  1
+ 215  BENJA*_H|OWARD             BENJAMIN HOWARD                    6
+ 216  BENJA*_M|ORGAN             BENJAMIN MORGAN                    1
+ 217  BENJA*_T|UCKER             BENJAMIN TUCKER                    3
+ 218  BEVERLY |                  BEVERLY                            8
+ 219  BHERING |                  BHERING                            4
+ 220  BINGHAM |                  BINGHAM                            1
+ 224  BLACKSTO|NE_OF_MISTIC      BLACKSTONE OF MISTIC               1
+ 221  BLACK_HA|WK                BLACK HAWK                         3
+ 222  BLACK_SQ|UALL              BLACK SQUALL                       3
+ 223  BLACK_WA|RRIOR             BLACK WARRIOR                      1
+ 225  BLAKELY |                  BLAKELY                            5
+ 226  BLANCHAR|D                 BLANCHARD                          9
+ 227  BLONDEL |                  BLONDEL                            8
+ 228  BOGARIN |                  BOGARIN                            9
+ 229  BONETTA |                  BONETTA                            2
+ 230  BONITA  |                  BONITA                             4
+ 231  BONITO  |                  BONITO                             6
+ 232  BONNOR  |                  BONNOR                             7
+ 233  BORNEO  |                  BORNEO                            11
+ 234  BOSTON  |                  BOSTON                            16
+ 236  BOSTONIA|N                 BOSTONIAN                          3
+ 235  BOSTON_L|IGHT              BOSTON LIGHT                       3
+ 237  BOTHNIA |                  BOTHNIA                            3
+ 238  BOXER   |                  BOXER                             15
+ 239  BOY     |                  BOY                                2
+ 240  BRANDYWI|NE                BRANDYWINE                         4
+ 241  BRASIL  |                  BRASIL                             4
+ 242  BRAZILLE|IRO               BRAZILLEIRO                       32
+ 243  BREWER  |                  BREWER                             3
+ 244  BREWSTER|                  BREWSTER                           4
+ 245  BRIDGEWA|TER               BRIDGEWATER                       20
+ 246  BRILLIAN|T_OF_WARREN       BRILLIANT OF WARREN                5
+ 247  BRITISH_|GEUTOO            BRITISH GEUTOO                     1
+ 248  BRITON  |                  BRITON                             3
+ 249  BROOKLIN|E                 BROOKLINE                         20
+ 250  BROOKLYN|                  BROOKLYN                           3
+ 251  BROTHERS|                  BROTHERS                           2
+ 252  BROXBORN|EBURY             BROXBORNEBURY                      9
+ 253  BRUNETTE|                  BRUNETTE                           1
+ 254  BRUNSWIC|K                 BRUNSWICK                          2
+ 255  BRUTUS  |                  BRUTUS                             6
+ 256  BURLINGT|ON                BURLINGTON                         7
+ 257  BURMAH  |                  BURMAH                             4
+ 258  BURMAK  |                  BURMAK                            14
+ 259  BYRON   |                  BYRON                             15
+ 260  C.E.GAY |                  C.E.GAY                            2
+ 261  C.W.RING|                  C.W.RING                           4
+ 262  CABINET |                  CABINET                            1
+ 263  CABOT   |                  CABOT                              3
+ 264  CADET   |                  CADET                              8
+ 265  CADMUS  |                  CADMUS                             2
+ 266  CALCUTTA|                  CALCUTTA                          17
+ 267  CALEB   |                  CALEB                              2
+ 268  CALEDONI|A                 CALEDONIA                          8
+ 269  CALIDONI|A                 CALIDONIA                          5
+ 270  CALIFORN|IA                CALIFORNIA                        20
+ 271  CALLAO  |                  CALLAO                             1
+ 272  CALLIA  |                  CALLIA                             1
+ 273  CAMBRIA |                  CAMBRIA                           13
+ 274  CAMILLUS|                  CAMILLUS                           1
+ 275  CANADA  |                  CANADA                            24
+ 276  CANDACE |                  CANDACE                           26
+ 277  CANNATA |                  CANNATA                            2
+ 278  CANOPUS |                  CANOPUS                            1
+ 279  CANTERO |                  CANTERO                            1
+ 280  CANTON  |                  CANTON                             9
+ 281  CANTON_O|F_PHILADELPHIA    CANTON OF PHILADELPHIA             2
+ 282  CANVASS_|BACK              CANVASS BACK                       6
+ 283  CAPITOL |                  CAPITOL                            3
+ 284  CAPRICE |                  CAPRICE                            2
+ 285  CAPTAIN_|TOM               CAPTAIN TOM                        1
+ 286  CARAVAN |                  CARAVAN                            4
+ 287  CARDELIA|                  CARDELIA                           2
+ 288  CARIBBEA|N                 CARIBBEAN                          3
+ 289  CARIOCA |                  CARIOCA                            2
+ 290  CARIOCA_|OF_PHILADELPHIA   CARIOCA OF PHILADELPHIA            3
+ 291  CARLOTTA|                  CARLOTTA                           1
+ 293  CAROL*  |                  CAROLINE                          19
+ 294  CAROL*&M|ARY               CAROLINE & MARY                    1
+ 295  CAROL*_A|UGUSTA            CAROLINE AUGUSTA                  15
+ 296  CAROL*_K|.MARY             CAROLINE K.MARY                    1
+ 297  CAROL*_O|F_NEW_BEDFORD     CAROLINE OF NEW BEDFORD            1
+ 298  CAROL*_R|EAD               CAROLINE READ                      1
+ 292  CAROLINA|                  CAROLINA                           5
+ 299  CARRINGT|ON                CARRINGTON                         8
+ 300  CARROLL |                  CARROLL                           10
+ 301  CASHMERE|                  CASHMERE                           2
+ 302  CASILDA |                  CASILDA                            2
+ 303  CASPAR  |                  CASPAR                             6
+ 304  CASSIOPE|A                 CASSIOPEA                          1
+ 305  CASTLE_H|UNTLEY            CASTLE HUNTLEY                     2
+ 306  CATAWBA |                  CATAWBA                            2
+ 307  CATHARIN|E                 CATHARINE                         40
+ 308  CATHE*  |                  CATHERINE                          5
+ 309  CATHE*_R|AY                CATHERINE RAY                      1
+ 310  CATO    |                  CATO                               6
+ 311  CAVALIER|                  CAVALIER                           1
+ 312  CELES*  |                  CELESTIAL                          7
+ 313  CELES*_E|MPIRE             CELESTIAL EMPIRE                   3
+ 314  CENTAUR |                  CENTAUR                            1
+ 315  CENTRAL_|AMERICA           CENTRAL AMERICA                    6
+ 316  CENTURIO|N                 CENTURION                          5
+ 317  CERES   |                  CERES                              3
+ 318  CERVANTE|S                 CERVANTES                          2
+ 319  CEYLON  |                  CEYLON                             3
+ 320  CHALCEDO|NY                CHALCEDONY                        10
+ 321  CHALLE* |                  CHALLENGE                          7
+ 322  CHALLE*R|                  CHALLENGER                         1
+ 323  CHAMPION|                  CHAMPION                           7
+ 324  CHAMPLAI|N                 CHAMPLAIN                          5
+ 325  CHANCE  |                  CHANCE                             1
+ 326  CHANNING|                  CHANNING                          10
+ 327  CHANTICL|EER               CHANTICLEER                       10
+ 328  CHAPIN  |                  CHAPIN                             3
+ 331  CHAR*_A.|FARWELL           CHARLES A.FARWELL                  2
+ 332  CHAR*_HE|NRY               CHARLES HENRY                      2
+ 333  CHAR*_KE|EN_OF_N.Y.        CHARLES KEEN OF N.Y.               3
+ 334  CHAR*_MA|LLORY             CHARLES MALLORY                    1
+ 335  CHAR*_MC|LAUGHLAN          CHARLES MCLAUGHLAN                 8
+ 336  CHAR*_PH|ELPS              CHARLES PHELPS                     1
+ 337  CHAR*_W.|MORGAN            CHARLES W. MORGAN                 18
+ 338  CHAR*_WE|LLS               CHARLES WELLS                      4
+ 329  CHARIOT |                  CHARIOT                            1
+ 340  CHARL*  |                  CHARLOTTE                          8
+ 341  CHARL*_E|.GAY              CHARLOTTE E.GAY                    1
+ 330  CHARLES |                  CHARLES                           16
+ 339  CHARLEST|ON                CHARLESTON                         6
+ 342  CHASCA  |                  CHASCA                             8
+ 343  CHASE   |                  CHASE                              3
+ 344  CHATSWOR|TH                CHATSWORTH                         4
+ 345  CHELSEA |                  CHELSEA                            1
+ 346  CHENANGO|                  CHENANGO                           8
+ 347  CHEROKEE|                  CHEROKEE                          18
+ 348  CHESAPEA|KE                CHESAPEAKE                        16
+ 349  CHEVALLI|E                 CHEVALLIE                          2
+ 350  CHICORA |                  CHICORA                            4
+ 351  CHILI   |                  CHILI                              6
+ 352  CHILO   |                  CHILO                              1
+ 353  CHIMBORA|ZA                CHIMBORAZA                         4
+ 354  CHINA   |                  CHINA                             31
+ 355  CHINCHIL|LA                CHINCHILLA                         2
+ 356  CHRISTOP|HER_MITCHELL      CHRISTOPHER MITCHELL               1
+ 357  CHUSAN  |                  CHUSAN                             5
+ 358  CINCIN*I|                  CINCINNATI                         3
+ 359  CINCIN*U|S                 CINCINNATUS                        5
+ 360  CIPHER  |                  CIPHER                             2
+ 361  CITIZEN |                  CITIZEN                            6
+ 362  CITY*_MA|NCHESTER          CITY OF MANCHESTER                 1
+ 363  CITY*_PA|LACES             CITY OF PALACES                    4
+ 364  CITY*_PI|TTSBURGH          CITY OF PITTSBURGH                 2
+ 365  CLARA   |                  CLARA                              6
+ 366  CLARENDO|N                 CLARENDON                         19
+ 367  CLAREUDO|R                 CLAREUDOR                          1
+ 368  CLAY    |                  CLAY                               1
+ 369  CLEMATIS|                  CLEMATIS                           2
+ 370  CLEMENTI|NE                CLEMENTINE                         1
+ 371  CLEOPATR|A                 CLEOPATRA                          6
+ 372  CLEORA  |                  CLEORA                             7
+ 373  CLIFFORD|_WAYNE            CLIFFORD WAYNE                    14
+ 374  CLIFTON |                  CLIFTON                            2
+ 375  CLIMAX  |                  CLIMAX                             3
+ 376  CLINTON |                  CLINTON                            9
+ 377  CLIO    |                  CLIO                               1
+ 378  CLYDE   |                  CLYDE                              2
+ 379  COEUR_DE|_LION             COEUR DE LION                     17
+ 380  COHANSEY|                  COHANSEY                           4
+ 381  COHOTA  |                  COHOTA                            15
+ 382  COLCHIS |                  COLCHIS                            3
+ 383  COLLINGW|OOD               COLLINGWOOD                        3
+ 384  COLUMBIA|                  COLUMBIA                          44
+ 385  COLUMBO |                  COLUMBO                            2
+ 386  COLUMBUS|                  COLUMBUS                           9
+ 387  COMELIA |                  COMELIA                            2
+ 388  COMET   |                  COMET                              9
+ 389  COMMERCE|                  COMMERCE                          34
+ 390  COMMODOR|E                 COMMODORE                         26
+ 391  COMPETIT|OR                COMPETITOR                         1
+ 392  CONCORD |                  CONCORD                            1
+ 393  CONCORDI|A                 CONCORDIA                          1
+ 394  CONDOR  |                  CONDOR                            13
+ 395  CONGRESS|                  CONGRESS                          26
+ 396  CONNECTI|CUT               CONNECTICUT                        3
+ 397  CONQUERO|R                 CONQUEROR                          3
+ 398  CONQUEST|                  CONQUEST                           1
+ 399  CONSTANC|E                 CONSTANCE                          1
+ 400  CONSTANT|INE               CONSTANTINE                        9
+ 401  CONSTELL|ATION             CONSTELLATION                      9
+ 402  CONSTITU|TION              CONSTITUTION                       8
+ 403  CONTEST |                  CONTEST                            6
+ 404  COQUIMBO|                  COQUIMBO                           4
+ 405  CORAL   |                  CORAL                              5
+ 406  CORAL_OF|_NEW_BEDFORD      CORAL OF NEW BEDFORD               8
+ 407  CORAL_OF|_NEW_BEDFORD_S    CORAL OF NEW BEDFORD   S           5
+ 408  CORDELIA|                  CORDELIA                          11
+ 409  COREA   |                  COREA                              1
+ 410  CORINNE |                  CORINNE                            7
+ 411  CORINTHI|AN                CORINTHIAN                        13
+ 412  CORIOLAN|US                CORIOLANUS                         2
+ 413  CORMANDO|                  CORMANDO                           2
+ 414  CORNE*  |                  CORNELIA                           2
+ 415  CORNE*_L|.BEVAN            CORNELIA L.BEVAN                   3
+ 416  CORNILIA|                  CORNILIA                           3
+ 417  COROMAND|O_OF_BOSTON       COROMANDO OF BOSTON                2
+ 418  CORROLAN|US                CORROLANUS                        10
+ 419  CORSAIR |                  CORSAIR                            5
+ 420  CORTES  |                  CORTES                            14
+ 421  CORTES_O|F_NEW_BEDFORD     CORTES OF NEW BEDFORD             10
+ 422  CORVO   |                  CORVO                              1
+ 423  COSTA_RI|CA                COSTA RICA                         2
+ 424  COTTON  |                  COTTON                             3
+ 425  COURIER_|OF_NEW_BEDFORD    COURIER OF NEW BEDFORD             3
+ 426  COURSER |                  COURSER                            3
+ 427  COVINGA |                  COVINGA                            3
+ 428  COVINGTO|N                 COVINGTON                          1
+ 429  COWPER  |                  COWPER                             2
+ 430  CRAWFORD|                  CRAWFORD                           3
+ 431  CREED   |                  CREED                              2
+ 432  CREOLE  |                  CREOLE                            10
+ 433  CRESC*  |                  CRESCENT                           2
+ 434  CRESC*_C|ITY               CRESCENT CITY                      4
+ 435  CROCKET |                  CROCKET                            1
+ 436  CRUSADER|                  CRUSADER                           5
+ 437  CRUSOE  |                  CRUSOE                             2
+ 438  CUBA    |                  CUBA                              12
+ 439  CULLOMA |                  CULLOMA                            7
+ 440  CULTWATE|R                 CULTWATER                          2
+ 441  CUMBERLA|ND                CUMBERLAND                         6
+ 442  CURLEW  |                  CURLEW                             1
+ 443  CURVETA_|PORTO             CURVETA PORTO                      2
+ 444  CYANE   |                  CYANE                             49
+ 445  CYCLONE |                  CYCLONE                            2
+ 446  CYGNET  |                  CYGNET                             7
+ 447  CYNTHIA |                  CYNTHIA                            4
+ 448  CYRUS   |                  CYRUS                             17
+ 450  D.FERNAN|DO                D.FERNANDO                         1
+ 449  D.FERNAN|DO                D. FERNANDO                        1
+ 451  D.GODFRE|Y                 D.GODFREY                          3
+ 452  D.IZABEL|                  D.IZABEL                           1
+ 453  D.M.HALL|                  D.M.HALL                           2
+ 454  DALE    |                  DALE                              18
+ 455  DAMON   |                  DAMON                              3
+ 456  DANCING_|FEATHER           DANCING FEATHER                    1
+ 457  DANIEL  |                  DANIEL                             1
+ 458  DANIEL_W|EBSTER            DANIEL WEBSTER                     2
+ 459  DANTE   |                  DANTE                              5
+ 460  DANUBE  |                  DANUBE                             5
+ 461  DARING  |                  DARING                             6
+ 462  DARTMOUT|H                 DARTMOUTH                          6
+ 463  DASHAWAY|                  DASHAWAY                           2
+ 464  DASHING_|WAVE              DASHING WAVE                       4
+ 465  DAVID_BR|OWN               DAVID BROWN                        4
+ 466  DAVID_C.|FOSTER            DAVID C.FOSTER                     1
+ 467  DAVID_CR|OSS               DAVID CROSS                        2
+ 468  DECATUR |                  DECATUR                           19
+ 469  DEFIA*  |                  DEFIANCE                           5
+ 470  DEFIA*_N|EW_YORK           DEFIANCE OF NEW YORK               1
+ 471  DEIHI   |                  DEIHI                              1
+ 472  DELAWARE|                  DELAWARE                           2
+ 473  DELEGATE|                  DELEGATE                           1
+ 474  DELHI   |                  DELHI                              1
+ 475  DELIA_MA|RIA               DELIA MARIA                        1
+ 476  DEMERAN |                  DEMERAN                            1
+ 478  DERBY   |                  DERBY                             20
+ 477  DER_WEST|                  DER WEST                           3
+ 479  DESPATCH|                  DESPATCH                           8
+ 480  DEUCALIO|N                 DEUCALION                          2
+ 481  DEVONSHI|RE                DEVONSHIRE                         6
+ 482  DIADEM  |                  DIADEM                            25
+ 483  DIMON   |                  DIMON                              1
+ 484  DISEMPEN|HO                DISEMPENHO                         2
+ 485  DOLPHIN |                  DOLPHIN                           21
+ 486  DOLPHIN_|OF_BALTIMORE      DOLPHIN OF BALTIMORE               3
+ 487  DORCAS  |                  DORCAS                             9
+ 488  DORCHEST|ER                DORCHESTER                         2
+ 489  DOUGLAS |                  DOUGLAS                           16
+ 490  DOVE    |                  DOVE                               3
+ 492  DOVER   |                  DOVER                              3
+ 491  DOVE_OF_|NEW_LONDON        DOVE OF NEW LONDON                 2
+ 493  DRACO   |                  DRACO                             18
+ 494  DRAGON  |                  DRAGON                            21
+ 495  DRAPER  |                  DRAPER                             7
+ 496  DREADNOU|GHT               DREADNOUGHT                        5
+ 497  DRIVER  |                  DRIVER                             6
+ 498  DROMO   |                  DROMO                              3
+ 499  DUKE_OF_|LANCASTER         DUKE OF LANCASTER                  1
+ 500  DUTCHESS|                  DUTCHESS                           2
+ 501  DUXBURY |                  DUXBURY                            2
+ 502  E.C.SCRA|NTON              E.C.SCRANTON                       1
+ 503  E.CORNIN|G                 E.CORNING                         12
+ 504  E.F.WILL|ETS               E.F.WILLETS                        5
+ 505  E.L.JENN|Y                 E.L.JENNY                          9
+ 506  E.MORGAN|                  E.MORGAN                           3
+ 507  E.Z.    |                  E.Z.                              22
+ 508  EAGLE   |                  EAGLE                              7
+ 509  EAGLE_WI|NGS               EAGLE WINGS                        7
+ 510  EARL*BAL|CARRES            EARL OF BALCARRES                  1
+ 511  EARL*CLA|VE                EARL OF CLAVE                      2
+ 512  EARL*ELG|IN                EARL OF ELGIN                      1
+ 513  EAS*STAR|                  EASTERN STAR                       2
+ 514  EAS*STAT|E                 EASTERN STATE                      1
+ 515  EBEN_PRE|BLE               EBEN PREBLE                        9
+ 516  ECLIPSE |                  ECLIPSE                            1
+ 517  EDGAR   |                  EDGAR                              8
+ 518  EDINBURG|H                 EDINBURGH                          3
+ 519  EDITH   |                  EDITH                              3
+ 520  EDMOND  |                  EDMOND                             2
+ 521  EDNA    |                  EDNA                               2
+ 522  EDWARD  |                  EDWARD                            18
+ 523  EDWARD_C|ARY               EDWARD CARY                        1
+ 524  EDWIN   |                  EDWIN                             10
+ 526  EDWINA  |                  EDWINA                             3
+ 525  EDWIN_FO|RREST             EDWIN FORREST                      2
+ 528  ELBE    |                  ELBE                               3
+ 530  ELECT*_F|LASH              ELECTRIC FLASH                     7
+ 531  ELECT*_S|PARK              ELECTRIC SPARK                     4
+ 529  ELECTRA |                  ELECTRA                            1
+ 532  ELEMENT |                  ELEMENT                            5
+ 533  ELIJAH  |                  ELIJAH                             1
+ 534  ELIJAH_S|WIFT              ELIJAH SWIFT                       4
+ 535  ELISA   |                  ELISA                              2
+ 544  ELIZ*&-M|ARY               ELIZA-AND-MARY                     2
+ 545  ELIZ*&-S|USAN              ELIZA-AND-SUSAN                    1
+ 536  ELIZA   |                  ELIZA                              6
+ 546  ELIZAB* |                  ELIZABETH                         17
+ 547  ELIZAB*F|ELTON             ELIZABETH FELTON                   1
+ 548  ELIZAB*K|IMBALL            ELIZABETH KIMBALL                  3
+ 537  ELIZA_AD|AMS               ELIZA ADAMS                        1
+ 538  ELIZA_AN|N                 ELIZA ANN                         12
+ 539  ELIZA_F.|MASON             ELIZA F.MASON                      5
+ 540  ELIZA_MA|LLORY             ELIZA MALLORY                      3
+ 541  ELIZA_SC|OTT               ELIZA SCOTT                        1
+ 542  ELIZA_TH|ORNTON            ELIZA THORNTON                     1
+ 543  ELIZA_WA|RWICK             ELIZA WARWICK                      1
+ 549  ELLEN   |                  ELLEN                             20
+ 550  ELLEN_BR|OOK               ELLEN BROOK                        4
+ 551  ELLEN_MO|RISON             ELLEN MORISON                      1
+ 552  ELLEN_NO|YES               ELLEN NOYES                        3
+ 553  ELLERSLI|E                 ELLERSLIE                          1
+ 554  ELORA   |                  ELORA                              2
+ 555  ELSINORE|                  ELSINORE                           4
+ 556  ELVIRA  |                  ELVIRA                             9
+ 527  EL_DORAD|O                 EL DORADO                          4
+ 557  EMELINE |                  EMELINE                           20
+ 558  EMERALD |                  EMERALD                           23
+ 559  EMERALD_|OF_NEW_BEDFORD    EMERALD OF NEW BEDFORD             1
+ 560  EMILIA  |                  EMILIA                             1
+ 561  EMILY   |                  EMILY                              5
+ 562  EMILY_BA|NNING             EMILY BANNING                      1
+ 563  EMILY_FA|RNUM              EMILY FARNUM                       3
+ 564  EMILY_MI|NER               EMILY MINER                        2
+ 565  EMILY_SM|ITH               EMILY SMITH                        1
+ 566  EMILY_TA|YLOR              EMILY TAYLOR                       5
+ 567  EMILY_WI|LDER              EMILY WILDER                       1
+ 568  EMMA    |                  EMMA                               1
+ 569  EMMA_LOU|ISA               EMMA LOUISA                        2
+ 570  EMPIRE_C|ITY               EMPIRE CITY                        1
+ 572  EMPRE*_C|HINA              EMPRESS OF CHINA                   1
+ 573  EMPRE*_T|HE_SEAS           EMPRESS OF THE SEAS                3
+ 571  EMPRESS |                  EMPRESS                            2
+ 574  EMU     |                  EMU                                5
+ 575  ENDEAVOR|                  ENDEAVOR                          18
+ 576  ENTERPRI|SE                ENTERPRISE                         8
+ 577  ENVOY   |                  ENVOY                             23
+ 578  EOLIAN  |                  EOLIAN                             1
+ 579  EOLUS   |                  EOLUS                              1
+ 580  EQUATOR |                  EQUATOR                            3
+ 581  ERIA    |                  ERIA                               1
+ 582  ERIE    |                  ERIE                               5
+ 583  ESCALUS |                  ESCALUS                            3
+ 584  ESCORT  |                  ESCORT                            14
+ 585  ESHCAL  |                  ESHCAL                             1
+ 586  ESPELITA|                  ESPELITA                           1
+ 587  ESPOIR  |                  ESPOIR                             1
+ 588  ESSEX   |                  ESSEX                             10
+ 589  ESTHER_F|RANCIS            ESTHER FRANCIS                     3
+ 590  ESTHER_M|AY                ESTHER MAY                        10
+ 591  ETHA    |                  ETHA                               6
+ 592  EUGENE  |                  EUGENE                             3
+ 593  EUNOMUS |                  EUNOMUS                            1
+ 594  EUPHRATE|S                 EUPHRATES                          6
+ 595  EUREKA  |                  EUREKA                            11
+ 596  EUROPA  |                  EUROPA                            48
+ 597  EUROPE  |                  EUROPE                             8
+ 598  EVANGELI|NE                EVANGELINE                         3
+ 599  EXCHANGE|_OF_NEW_YORK      EXCHANGE OF NEW YORK               3
+ 600  EXPRESS |                  EXPRESS                            4
+ 601  F.A.PERL|Y                 F.A.PERLY                          3
+ 602  F.COPELA|ND_AND_CO.        F.COPELAND AND CO.                 3
+ 603  F.DEMING|                  F.DEMING                           6
+ 604  F.W.BAIL|Y                 F.W.BAILY                          1
+ 605  F.W.BRUN|E                 F.W.BRUNE                          1
+ 606  FABIUS  |                  FABIUS                            15
+ 607  FACTOR  |                  FACTOR                            10
+ 609  FAIRFIEL|D                 FAIRFIELD                         19
+ 608  FAIR_FRI|END               FAIR FRIEND                        1
+ 610  FALCO   |                  FALCO                              2
+ 611  FALCON  |                  FALCON                             7
+ 612  FALCONER|                  FALCONER                           1
+ 613  FALMOUTH|                  FALMOUTH                          30
+ 614  FAME    |                  FAME                               3
+ 615  FANCHON |                  FANCHON                            9
+ 616  FANEUIL_|HALL              FANEUIL HALL                       1
+ 617  FANNY   |                  FANNY                              9
+ 618  FANNY_FI|SHER              FANNY FISHER                       3
+ 620  FARWELL |                  FARWELL                            3
+ 621  FARWELLS|_OF_BOSTON        FARWELLS OF BOSTON                 1
+ 619  FAR_WEST|                  FAR WEST                           3
+ 622  FAVORITE|N                 FAVORITEN                          4
+ 623  FAVOURIT|E                 FAVOURITE                          6
+ 624  FAZEL_CU|RRIM              FAZEL CURRIM                       9
+ 625  FENELON |                  FENELON                            7
+ 626  FIDELIA |                  FIDELIA                            3
+ 627  FIDES   |                  FIDES                              2
+ 628  FINLAND |                  FINLAND                            3
+ 629  FISHER_A|MES               FISHER AMES                        2
+ 630  FLARIUS |                  FLARIUS                            2
+ 633  FLEETWOO|D                 FLEETWOOD                          3
+ 631  FLEET_EA|GLE               FLEET EAGLE                        2
+ 632  FLEET_WI|NG                FLEET WING                         3
+ 634  FLORA   |                  FLORA                              5
+ 635  FLORA_OF|_NEW_LONDON       FLORA OF NEW LONDON                4
+ 636  FLORENCE|                  FLORENCE                           9
+ 637  FLORIDA |                  FLORIDA                            6
+ 638  FLYI*   |                  FLYING                             4
+ 639  FLYI*_CH|ILDERS            FLYING CHILDERS                    1
+ 640  FLYI*_CL|OUD               FLYING CLOUD                       6
+ 641  FLYI*_DR|AGON              FLYING DRAGON                      2
+ 642  FLYI*_DU|TCHMAN            FLYING DUTCHMAN                    3
+ 643  FLYI*_EA|GLE               FLYING EAGLE                       2
+ 644  FLYI*_FI|SH                FLYING FISH                        7
+ 645  FOAMING_|SEA               FOAMING SEA                        2
+ 646  FOREST  |                  FOREST                             2
+ 647  FORRESTE|R                 FORRESTER                          5
+ 648  FORTITUD|E                 FORTITUDE                          3
+ 649  FORTUNA |                  FORTUNA                            1
+ 650  FOZZEL_C|URRIN             FOZZEL CURRIN                      1
+ 652  FRAN*_AN|D_LOUISA          FRANCES AND LOUISA                 1
+ 657  FRAN*_DE|PAU               FRANCIS DEPAU                      1
+ 658  FRAN*_HE|NRIETTA           FRANCIS HENRIETTA                  1
+ 659  FRAN*_P.|SAGE              FRANCIS P.SAGE                     1
+ 653  FRAN*_PA|LMER              FRANCES PALMER                     1
+ 654  FRAN*_WH|ITNEY             FRANCES WHITNEY                    2
+ 651  FRANCE_O|F_NY              FRANCE OF NY                       1
+ 655  FRANCHON|_OF_NEWPORT       FRANCHON OF NEWPORT                2
+ 656  FRANCIS |                  FRANCIS                            6
+ 660  FRANCISC|O                 FRANCISCO                          1
+ 661  FRANCONI|A                 FRANCONIA                         12
+ 662  FRANK*  |                  FRANKLIN                          13
+ 663  FRANK*_N|ANTUCKET          FRANKLIN OF NANTUCKET              1
+ 664  FRAPTINE|                  FRAPTINE                           1
+ 665  FRED*   |                  FREDERIC                           2
+ 666  FRED*K  |                  FREDERICK                          3
+ 667  FRED*K_D|ENING             FREDERICK DENING                   5
+ 668  FRED*K_W|ARREN             FREDERICK WARREN                   5
+ 669  FREE_TRA|DE                FREE TRADE                         4
+ 670  FREIGHTE|R                 FREIGHTER                          2
+ 671  FRIENDSH|IP                FRIENDSHIP                        11
+ 672  FULTON  |                  FULTON                             3
+ 707  G*&_HENR|Y                 GEORGE AND HENRY                   1
+ 708  G*&_MART|HA                GEORGE AND MARTHA                  2
+ 709  G*&_MARY|                  GEORGE AND MARY                    2
+ 710  G*&_SUSA|N                 GEORGE AND SUSAN                   7
+ 673  G.W.KNIG|HT                G.W.KNIGHT                        36
+ 674  GALATEA |                  GALATEA                            2
+ 675  GALBOT  |                  GALBOT                             2
+ 676  GALLAGO |                  GALLAGO                            4
+ 677  GALLIA  |                  GALLIA                             9
+ 678  GAMBIA  |                  GAMBIA                             1
+ 679  GAME_COC|K                 GAME COCK                         17
+ 680  GANGES  |                  GANGES                             2
+ 681  GARLAND |                  GARLAND                           10
+ 682  GARONNE |                  GARONNE                            1
+ 683  GARRICK |                  GARRICK                            6
+ 684  GASPAR  |                  GASPAR                             5
+ 685  GAUNTLET|                  GAUNTLET                           2
+ 686  GAZELLE |                  GAZELLE                            1
+ 687  GEFFRARD|                  GEFFRARD                           1
+ 688  GEM_OF_T|HE_SEA            GEM OF THE SEA                     4
+ 691  GEN*_HAR|RISON             GENERAL HARRISON                   3
+ 692  GEN*_JES|UP                GENERAL JESUP                      2
+ 693  GEN*_JON|ES                GENERAL JONES                      4
+ 690  GEN*_JON|ES                GENERAL  JONES                     1
+ 694  GEN*_MOR|GAN               GENERAL MORGAN                     1
+ 695  GEN*_PAL|MER               GENERAL PALMER                     7
+ 696  GEN*_PIN|CKNEY             GENERAL PINCKNEY                   3
+ 697  GEN*_SER|VANO              GENERAL SERVANO                    1
+ 698  GEN*_WIL|LIAMS             GENERAL WILLIAMS                   1
+ 699  GENESEE |                  GENESEE                            9
+ 700  GENEVA  |                  GENEVA                             4
+ 701  GENEVIEV|E                 GENEVIEVE                          1
+ 702  GENOA   |                  GENOA                              3
+ 703  GENTOS  |                  GENTOS                             1
+ 689  GEN_JONE|S                 GEN  JONES                         1
+ 711  GEO*_BRO|WN                GEORGE BROWN                       2
+ 712  GEO*_CHA|PLIN              GEORGE CHAPLIN                     6
+ 713  GEO*_HEN|RY                GEORGE HENRY                       4
+ 714  GEO*_KAY|NES               GEORGE KAYNES                      9
+ 715  GEO*_LES|LIE               GEORGE LESLIE                      1
+ 716  GEO*_LOQ|UALL              GEORGE LOQUALL                     2
+ 717  GEO*_M.R|USSELL            GEORGE M.RUSSELL                  14
+ 718  GEO*_POR|TER               GEORGE PORTER                      4
+ 719  GEO*_R.S|KEDDY             GEORGE R.SKEDDY                    1
+ 720  GEO*_RAY|NES               GEORGE RAYNES                      3
+ 721  GEO*_THO|MAS               GEORGE THOMAS                      4
+ 722  GEO*_WAS|HINGTON           GEORGE WASHINGTON                 17
+ 704  GEO.A.HO|PLEY              GEO.A.HOPLEY                       9
+ 705  GEO.WASH|INGTON            GEO.WASHINGTON                     1
+ 706  GEORGE  |                  GEORGE                            30
+ 723  GEORGETO|WN                GEORGETOWN                         5
+ 724  GEORGIA |                  GEORGIA                            9
+ 726  GEORGIAN|                  GEORGIAN                          11
+ 725  GEORGIA_|OF_SAVANNAH       GEORGIA OF SAVANNAH                2
+ 727  GERMANIA|                  GERMANIA                           3
+ 728  GERMANTO|WN                GERMANTOWN                         2
+ 729  GERTRUDE|                  GERTRUDE                          10
+ 730  GIDEON  |                  GIDEON                             1
+ 731  GILBERT |                  GILBERT                            1
+ 732  GLADIATO|R                 GLADIATOR                          7
+ 733  GLASGOW |                  GLASGOW                            2
+ 734  GLEANER |                  GLEANER                            1
+ 735  GLOBE   |                  GLOBE                              3
+ 736  GLORIANA|                  GLORIANA                           1
+ 737  GOA     |                  GOA                                2
+ 738  GODDESS |                  GODDESS                            3
+ 739  GODFREY |                  GODFREY                            2
+ 741  GOL*_AGE|                  GOLDEN AGE                         4
+ 742  GOL*_CIT|Y                 GOLDEN CITY                        7
+ 743  GOL*_EAG|LE                GOLDEN EAGLE                       8
+ 744  GOL*_ERA|_OF_NEW_YORK      GOLDEN ERA OF NEW YORK             3
+ 745  GOL*_GAT|E                 GOLDEN GATE                        7
+ 746  GOL*_RAC|ER                GOLDEN RACER                       6
+ 747  GOL*_RUL|E                 GOLDEN RULE                        7
+ 748  GOL*_STA|TE                GOLDEN STATE                       3
+ 749  GOL*_WES|T                 GOLDEN WEST                        9
+ 740  GOLCONDA|                  GOLCONDA                           5
+ 750  GOOD_SUC|CESS              GOOD SUCCESS                      16
+ 751  GORDON  |                  GORDON                             2
+ 752  GOSPORT |                  GOSPORT                            4
+ 753  GOV.MORT|ON                GOV.MORTON                        11
+ 754  GOV.SUMN|ER                GOV.SUMNER                         4
+ 755  GRACE_DA|RLING             GRACE DARLING                     14
+ 756  GRAFTON |                  GRAFTON                           15
+ 757  GRAND_TU|RK                GRAND TURK                         2
+ 758  GRAVINA |                  GRAVINA                            6
+ 759  GRAY_FEA|THER              GRAY FEATHER                      17
+ 760  GREAT_BR|ITAIN             GREAT BRITAIN                     14
+ 761  GREAT_RE|PUBLIC            GREAT REPUBLIC                     3
+ 762  GREENFIE|LD                GREENFIELD                         1
+ 763  GREENWIC|H                 GREENWICH                          3
+ 765  GREYHOUN|D                 GREYHOUND                          9
+ 764  GREY_EAG|LE                GREY EAGLE                         4
+ 766  GROTIUS |                  GROTIUS                            1
+ 767  GULLIVER|                  GULLIVER                           1
+ 768  GULNARE |                  GULNARE                            3
+ 769  GUSTAVE |                  GUSTAVE                            7
+ 770  GUY_MANN|ERING             GUY MANNERING                     10
+ 771  H.SPRAGU|E                 H.SPRAGUE                          3
+ 772  HAHNEMAN|N                 HAHNEMANN                          6
+ 773  HAIDEE  |                  HAIDEE                             1
+ 774  HALLOWEL|L                 HALLOWELL                          1
+ 775  HALYCON |                  HALYCON                            1
+ 776  HAMILTON|                  HAMILTON                           9
+ 777  HAMPTON |                  HAMPTON                            1
+ 778  HANIBAL |                  HANIBAL                            1
+ 779  HANNAH_T|HORNTON           HANNAH THORNTON                    2
+ 780  HANNIBAL|                  HANNIBAL                          21
+ 781  HANOVER |                  HANOVER                            7
+ 782  HANOVER_|OF_PROVINCETOWN   HANOVER OF PROVINCETOWN            1
+ 784  HARRI*  |                  HARRIET                           10
+ 785  HARRI*_E|RVING             HARRIET ERVING                     2
+ 786  HARRI*_H|OXIE              HARRIET HOXIE                      2
+ 787  HARRI*_O|SWALD             HARRIET OSWALD                     2
+ 783  HARRIER |                  HARRIER                            2
+ 788  HARRISBU|RG                HARRISBURG                         2
+ 789  HARTEGUI|N                 HARTEGUIN                          2
+ 790  HARTLEY |                  HARTLEY                            1
+ 792  HARVEST |                  HARVEST                           12
+ 793  HARVEY_B|IRCH              HARVEY BIRCH                       6
+ 791  HARVE_ET|_MARTINIQUE       HARVE ET MARTINIQUE                1
+ 794  HAVANA  |                  HAVANA                             4
+ 795  HAVRE   |                  HAVRE                             15
+ 796  HAWARD  |                  HAWARD                             1
+ 797  HAZARD  |                  HAZARD                            19
+ 798  HAZARD_O|F_SALEM           HAZARD OF SALEM                    5
+ 799  HEBER   |                  HEBER                             10
+ 800  HECLA   |                  HECLA                              8
+ 801  HECTOR  |                  HECTOR                            25
+ 802  HELEN   |                  HELEN                             20
+ 805  HELENA  |                  HELENA                            12
+ 803  HELEN_JA|NE                HELEN JANE                         6
+ 804  HELEN_M.|FIEDLER           HELEN M.FIEDLER                    2
+ 806  HELLESPO|NT                HELLESPONT                         3
+ 807  HELOISE |                  HELOISE                            2
+ 808  HELPER  |                  HELPER                             2
+ 811  HEN*    |                  HENRY                              2
+ 812  HEN*_AST|OR                HENRY ASTOR                       16
+ 813  HEN*_CAL|Y                 HENRY CALY                         1
+ 814  HEN*_CLA|Y                 HENRY CLAY                        10
+ 815  HEN*_CUI|LD                HENRY CUILD                        1
+ 816  HEN*_CUR|VEN               HENRY CURVEN                       1
+ 817  HEN*_EWB|ANK               HENRY EWBANK                       2
+ 818  HEN*_GUI|LD                HENRY GUILD                        1
+ 819  HEN*_LEE|                  HENRY LEE                          3
+ 820  HEN*_MAT|THEWS             HENRY MATTHEWS                     2
+ 821  HEN*_PRA|TT                HENRY PRATT                        3
+ 822  HEN*_TUK|E                 HENRY TUKE                         2
+ 823  HEN*_W.M|ONCURE            HENRY W.MONCURE                    2
+ 824  HEN*_WAR|E                 HENRY WARE                         2
+ 809  HENDRICK|_HUDSON           HENDRICK HUDSON                   32
+ 810  HENRIETT|A                 HENRIETTA                         43
+ 825  HERALD  |                  HERALD                            10
+ 826  HERATO  |                  HERATO                             5
+ 827  HERBERT |                  HERBERT                            3
+ 828  HERCULEA|N                 HERCULEAN                          5
+ 829  HERMAN  |                  HERMAN                             2
+ 830  HERMANN |                  HERMANN                            3
+ 831  HERMANN_|OF_BALTIMORE      HERMANN OF BALTIMORE               1
+ 832  HERMITAG|E                 HERMITAGE                          5
+ 833  HERO    |                  HERO                               3
+ 834  HEROINE |                  HEROINE                            2
+ 835  HEROKEE |                  HEROKEE                            3
+ 836  HERRACLI|DE                HERRACLIDE                         7
+ 837  HERSILIA|                  HERSILIA                           2
+ 838  HESPER  |                  HESPER                            43
+ 839  HIBERNIA|                  HIBERNIA                           8
+ 840  HIGH_FLY|ER                HIGH FLYER                         3
+ 841  HILO    |                  HILO                               3
+ 842  HINDOO  |                  HINDOO                             2
+ 843  HINDOSTA|N                 HINDOSTAN                          2
+ 844  HIPPOGRI|FFE               HIPPOGRIFFE                        3
+ 845  HOBART  |                  HOBART                             2
+ 846  HOGAN   |                  HOGAN                              9
+ 847  HOLLANDE|R                 HOLLANDER                         19
+ 848  HOLSBURG|H                 HOLSBURGH                          3
+ 849  HOME    |                  HOME                               5
+ 850  HOOGLEY |                  HOOGLEY                            1
+ 851  HOOGLY  |                  HOOGLY                             1
+ 852  HOPE    |                  HOPE                              19
+ 854  HOPEWELL|                  HOPEWELL                           4
+ 853  HOPE_OF_|NEW_BEDIFORD      HOPE OF NEW BEDIFORD               4
+ 855  HORATIO |                  HORATIO                           20
+ 856  HORATIO_|OF_NEW_BEDFORD    HORATIO OF NEW BEDFORD             1
+ 857  HORNET  |                  HORNET                             7
+ 858  HORSBURG|H                 HORSBURGH                          4
+ 859  HOUND   |                  HOUND                              4
+ 860  HOUQUA  |                  HOUQUA                             9
+ 861  HOWADJI |                  HOWADJI                            1
+ 862  HOWARD  |                  HOWARD                            16
+ 863  HUDSONS_|TRASK             HUDSONS TRASK                      1
+ 864  HUGH_BIR|CHEAD             HUGH BIRCHEAD                      1
+ 865  HUGUENOT|                  HUGUENOT                           1
+ 866  HULL    |                  HULL                               1
+ 867  HUMA    |                  HUMA                               7
+ 868  HUMBOLDT|                  HUMBOLDT                           7
+ 869  HUNTINGT|ON                HUNTINGTON                         3
+ 870  HUNTRESS|                  HUNTRESS                          28
+ 871  HUNTSVIL|LE                HUNTSVILLE                         1
+ 872  HURON   |                  HURON                              2
+ 873  HURRICAN|E                 HURRICANE                         11
+ 875  HYACINTH|                  HYACINTH                          13
+ 876  HYDASPE |                  HYDASPE                            9
+ 878  HYDEREE |                  HYDEREE                           10
+ 877  HYDER_AL|I                 HYDER ALI                          4
+ 879  HYNE    |                  HYNE                               4
+ 880  HYPERION|                  HYPERION                           7
+ 874  HY_KNEEL|AND               HY KNEELAND                        1
+ 881  I.FORBES|                  I.FORBES                           2
+ 882  I.MAUM  |                  I.MAUM                             8
+ 883  ICE_PLAN|T                 ICE PLANT                          2
+ 884  ICONIUM |                  ICONIUM                            4
+ 885  ILION   |                  ILION                              2
+ 886  ILLUSTRI|OUS               ILLUSTRIOUS                        2
+ 887  ILZAIDE |                  ILZAIDE                            1
+ 888  IMPERIAL|                  IMPERIAL                           7
+ 889  INCA    |                  INCA                               4
+ 890  INCA_OF_|BALTIMORE         INCA OF BALTIMORE                  3
+ 891  INDEPEND|ENCE              INDEPENDENCE                      18
+ 892  INDIA   |                  INDIA                             16
+ 894  INDIAMAN|                  INDIAMAN                           4
+ 895  INDIANMA|N                 INDIANMAN                          6
+ 893  INDIA_OF|_NEW_BEDFORD      INDIA OF NEW BEDFORD               3
+ 896  INDUS   |                  INDUS                             23
+ 897  INMAN   |                  INMAN                              1
+ 898  INO     |                  INO                                6
+ 899  INVINCIB|LE_OF_NEW_YORK    INVINCIBLE OF NEW YORK             2
+ 900  IOSCO   |                  IOSCO                             11
+ 901  IRIS    |                  IRIS                               9
+ 902  ISAAC_AL|LERTON            ISAAC ALLERTON                     1
+ 903  ISAAC_HE|ARNS              ISAAC HEARNS                       4
+ 906  ISAAC_WE|BB                ISAAC WEBB                         7
+ 907  ISAAC_WR|IGHT              ISAAC WRIGHT                      14
+ 912  ISABE*RC|US                ISABELLA HERCUS                    3
+ 913  ISABE*_B|ALTIMORE          ISABELLA OF BALTIMORE              2
+ 914  ISABE*_N|EW_BEDFORD        ISABELLA OF NEW BEDFORD            2
+ 908  ISABEL  |                  ISABEL                             7
+ 910  ISABELIT|A_HYNE            ISABELITA HYNE                    22
+ 911  ISABELLA|                  ISABELLA                          16
+ 909  ISABEL_O|F_NEW_YORK        ISABEL OF NEW YORK                 3
+ 915  ISIS    |                  ISIS                               2
+ 916  ISRAEL  |                  ISRAEL                             4
+ 917  ITALY   |                  ITALY                              3
+ 918  IVANHOE |                  IVANHOE                            9
+ 919  IZAIAH_C|ROWELE            IZAIAH CROWELE                     2
+ 920  IZETTE  |                  IZETTE                             1
+ 904  I_HOW*  |                  ISAAC HOWLAND                     10
+ 905  I_HOW*_N|EW_BED            ISAAC HOWLAND OF NEW BED           3
+ 921  J.B.LANC|ASTER             J.B.LANCASTER                      4
+ 922  J.E.DONN|ELL               J.E.DONNELL                        7
+ 923  J.J.BOBB|                  J.J.BOBB                           1
+ 924  J.Q.ADAM|S                 J.Q.ADAMS                          3
+ 925  JACOB_BE|LL                JACOB BELL                         8
+ 934  JAMESTOW|N                 JAMESTOWN                         49
+ 926  JAMES_AL|LEN               JAMES ALLEN                       10
+ 927  JAMES_BA|INES              JAMES BAINES                       1
+ 928  JAMES_H.|SHEPHERD          JAMES H.SHEPHERD                   3
+ 929  JAMES_MA|URY               JAMES MAURY                        8
+ 930  JAMES_MO|NROS              JAMES MONROS                       7
+ 931  JAMES_PE|RKINS             JAMES PERKINS                      2
+ 932  JAMES_ST|EWART_OF_ST.JOHN  JAMES STEWART OF ST.JOHN           1
+ 933  JAMES_WR|IGHT              JAMES WRIGHT                      13
+ 935  JANE    |                  JANE                               6
+ 937  JANET   |                  JANET                              7
+ 936  JANE_A.F|ALKINBURG         JANE A.FALKINBURG                  3
+ 938  JANUS   |                  JANUS                              3
+ 939  JASONE  |                  JASONE                             1
+ 940  JASPERS |                  JASPERS                            1
+ 941  JAVA    |                  JAVA                               8
+ 942  JEF*    |                  JEFFERSON                          2
+ 943  JEF*_DAV|IS                JEFFERSON DAVIS                    1
+ 944  JENNIE_W|.PAINE            JENNIE W.PAINE                     3
+ 945  JENNY_FO|RD                JENNY FORD                         2
+ 946  JENNY_PI|TTS               JENNY PITTS                        1
+ 947  JESSIE_B|YRNE              JESSIE BYRNE                       3
+ 948  JESSIE_S|MITH              JESSIE SMITH                       1
+ 949  JESSORE |                  JESSORE                            8
+ 950  JOAN    |                  JOAN                               3
+ 951  JOHANNA |                  JOHANNA                            3
+ 952  JOHN    |                  JOHN                               8
+ 953  JOHN_ADA|MS                JOHN ADAMS                        47
+ 954  JOHN_AND|_ELIZABETH        JOHN AND ELIZABETH                 4
+ 955  JOHN_BAR|ING               JOHN BARING                        1
+ 956  JOHN_BER|TRAM_OF_BOSTON    JOHN BERTRAM OF BOSTON            13
+ 957  JOHN_BRO|WMER              JOHN BROWMER                       7
+ 958  JOHN_BUL|L                 JOHN BULL                          1
+ 959  JOHN_CAD|MUS               JOHN CADMUS                        3
+ 960  JOHN_CAR|VER_OF_BOSTON     JOHN CARVER OF BOSTON              7
+ 961  JOHN_CAS|KIE               JOHN CASKIE                        1
+ 962  JOHN_CRO|SBY               JOHN CROSBY                        2
+ 963  JOHN_FLE|MING              JOHN FLEMING                       4
+ 964  JOHN_GAR|DNER              JOHN GARDNER                       3
+ 965  JOHN_GIL|PIN               JOHN GILPIN                       42
+ 966  JOHN_GRA|Y                 JOHN GRAY                          2
+ 967  JOHN_H.S|TEVENS            JOHN H.STEVENS                     8
+ 968  JOHN_HAV|EN                JOHN HAVEN                         8
+ 969  JOHN_HOL|LAND              JOHN HOLLAND                       1
+ 970  JOHN_HOW|LAND              JOHN HOWLAND                       4
+ 971  JOHN_HUL|LET               JOHN HULLET                        1
+ 972  JOHN_JAY|                  JOHN JAY                           3
+ 973  JOHN_KNO|X                 JOHN KNOX                          3
+ 974  JOHN_LAN|D                 JOHN LAND                          1
+ 975  JOHN_LIM|E                 JOHN LIME                          2
+ 976  JOHN_MAR|SHALL             JOHN MARSHALL                      9
+ 977  JOHN_MAT|THEW              JOHN MATTHEW                       4
+ 978  JOHN_OF_|PHILADELPHIA      JOHN OF PHILADELPHIA               3
+ 979  JOHN_Q.A|DAMS              JOHN Q.ADAMS                       1
+ 980  JOHN_R.G|ARDINER           JOHN R.GARDINER                    5
+ 981  JOHN_R.S|KIDDY             JOHN R.SKIDDY                      2
+ 982  JOHN_RUT|LEDGE             JOHN RUTLEDGE                      1
+ 983  JOHN_SHE|PPARD             JOHN SHEPPARD                      5
+ 984  JOHN_STU|ART               JOHN STUART                        1
+ 985  JOHN_WAD|E                 JOHN WADE                          9
+ 986  JOHN_WEL|LS                JOHN WELLS                         1
+ 987  JOHN_WES|LEY               JOHN WESLEY                        1
+ 988  JOHN_WM.|DAVE              JOHN WM.DAVE                       1
+ 989  JONATHAN|_GOODHUE          JONATHAN GOODHUE                   5
+ 990  JONES   |                  JONES                              1
+ 991  JOS.MAXW|ELL               JOS. MAXWELL                      22
+ 992  JOS.MEIG|S                 JOS.MEIGS                         11
+ 993  JOSEPHIN|E                 JOSEPHINE                         26
+ 994  JOSHUA_B|ATES              JOSHUA BATES                      12
+ 995  JOSIAH_B|RADLEE            JOSIAH BRADLEE                     8
+ 996  JOURNAL |                  JOURNAL                            1
+ 999  JUDSON  |                  JUDSON                            10
+ 997  JUD_S*  |                  JUDGE SHAW                         1
+ 998  JUD_S*_B|OSTON             JUDGE SHAW OF BOSTON               5
+1000  JULIA   |                  JULIA                              1
+1001  JULIAN  |                  JULIAN                             9
+1002  JULIET  |                  JULIET                             1
+1003  JULIUS_C|AESAR             JULIUS CAESAR                      2
+1004  JUNIATA |                  JUNIATA                            6
+1005  JUNIUS  |                  JUNIUS                             4
+1008  K*&ALICE|                  KATE AND ALICE                     5
+1006  KALAMAZO|O                 KALAMAZOO                         13
+1007  KANAWHA |                  KANAWHA                            4
+1013  KAT*    |                  KATHLEEN                           8
+1014  KAT*_NEW|_YORK             KATHLEEN OF NEW YORK               2
+1009  KATE_AND|ERSON             KATE ANDERSON                      4
+1010  KATE_HAY|ES                KATE HAYES                         3
+1011  KATE_HUN|TER               KATE HUNTER                        4
+1012  KATHAY  |                  KATHAY                             1
+1015  KATY    |                  KATY                               1
+1016  KEDAR   |                  KEDAR                              1
+1017  KENSINGT|ON                KENSINGTON                         4
+1018  KENTUCKY|                  KENTUCKY                           1
+1019  KEPLER  |                  KEPLER                             2
+1020  KIRKLAND|                  KIRKLAND                           5
+1021  KITTY   |                  KITTY                              1
+1022  KITTY_SI|MPSON             KITTY SIMPSON                      1
+1023  KREMLIN |                  KREMLIN                            5
+1024  KUTUSOFF|                  KUTUSOFF                           8
+1025  L.D.    |                  L.D.                               2
+1026  L.P.FOST|ER                L.P.FOSTER                         1
+1029  LADUCHES|S_D'ORLEANS       LADUCHESS D'ORLEANS               13
+1030  LADY_ADA|MS                LADY ADAMS                         5
+1031  LADY_ARA|BELLA             LADY ARABELLA                      6
+1032  LADY_FRA|NKLIN             LADY FRANKLIN                      3
+1033  LADY_JAN|E                 LADY JANE                          1
+1034  LAFAYETT|E                 LAFAYETTE                         14
+1035  LAGADA_O|F_NEW_BEDFORD     LAGADA OF NEW BEDFORD              1
+1036  LAGODA  |                  LAGODA                             1
+1037  LAGRANGE|                  LAGRANGE                           1
+1038  LAMATINE|                  LAMATINE                           2
+1039  LAMENS  |                  LAMENS                             1
+1040  LANCASTE|R                 LANCASTER                          5
+1041  LANTAO  |                  LANTAO                             6
+1042  LARIMNER|                  LARIMNER                           8
+1043  LATITIA_|OF_BALTIMORE      LATITIA OF BALTIMORE               3
+1044  LAURA   |                  LAURA                              5
+1045  LAURENS |                  LAURENS                            2
+1046  LAZA    |                  LAZA                               2
+1027  LA_BELLE|_ALLIANCE         LA BELLE ALLIANCE                  4
+1028  LA_GALLI|A                 LA GALLIA                          7
+1047  LEA     |                  LEA                                9
+1048  LEADER  |                  LEADER                             8
+1049  LEANDER |                  LEANDER                           13
+1050  LEBANON |                  LEBANON                           10
+1051  LECOCQ  |                  LECOCQ                             4
+1052  LEIGHTON|                  LEIGHTON                           1
+1053  LEILA   |                  LEILA                              2
+1054  LEILA_OF|_BALTIMORE        LEILA OF BALTIMORE                 1
+1055  LENOX   |                  LENOX                              1
+1056  LEO     |                  LEO                                3
+1057  LEONIDAS|                  LEONIDAS                           1
+1058  LEOPARD |                  LEOPARD                            7
+1059  LEOPOLD |                  LEOPOLD                            4
+1060  LEPANTO |                  LEPANTO                            2
+1061  LETITIA |                  LETITIA                           19
+1062  LEVANT  |                  LEVANT                            41
+1063  LEVANTER|                  LEVANTER                           2
+1064  LEVANTO |                  LEVANTO                           10
+1065  LEWIS   |                  LEWIS                             12
+1066  LEWIS_PE|RRY               LEWIS PERRY                        7
+1067  LEXINGTO|N                 LEXINGTON                          3
+1068  LIBERTY |                  LIBERTY                           12
+1070  LIGHTNIN|G                 LIGHTNING                          5
+1069  LIGHT_FO|OT                LIGHT FOOT                         3
+1071  LIGONIA |                  LIGONIA                            1
+1072  LILLIAN_|OF_EASTPORT       LILLIAN OF EASTPORT                3
+1073  LIMEHOUS|E                 LIMEHOUSE                          1
+1074  LINE&FRI|TZ                LINE & FRITZ                      13
+1075  LINWOOD |                  LINWOOD                            1
+1076  LION    |                  LION                              11
+1078  LIVERPOO|L                 LIVERPOOL                          7
+1077  LIVE_YAN|KEE               LIVE YANKEE                        3
+1080  LIVINGST|ON                LIVINGSTON                         1
+1079  LIVING_A|GE                LIVING AGE                         1
+1082  LOANDO  |                  LOANDO                             3
+1081  LOAN_OF_|EGARTOWN          LOAN OF EGARTOWN                   1
+1083  LOGAN   |                  LOGAN                             19
+1084  LONDON  |                  LONDON                            24
+1085  LONDON_T|RADER             LONDON TRADER                      2
+1086  LOO_CHOO|                  LOO CHOO                           9
+1087  LORD_ELP|HNISTONE          LORD ELPHNISTONE                   1
+1088  LORD_PET|RE                LORD PETRE                         1
+1089  LORETTO |                  LORETTO                            2
+1090  LOTUS   |                  LOTUS                              2
+1091  LOUISA_B|LISS              LOUISA BLISS                       5
+1092  LOUISE_O|F_HAMBURG         LOUISE OF HAMBURG                  1
+1093  LOUISVIL|LE                LOUISVILLE                         7
+1094  LOUVRE  |                  LOUVRE                             7
+1095  LOWELL  |                  LOWELL                            14
+1096  LOWTHER_|CASTLE            LOWTHER CASTLE                     3
+1097  LUCIA   |                  LUCIA                             11
+1098  LUCIA_FI|ELD               LUCIA FIELD                        3
+1099  LUCIA_MA|RIA               LUCIA MARIA                       18
+1100  LUCILLA |                  LUCILLA                            8
+1101  LUCKNOW |                  LUCKNOW                            2
+1102  LUCONIA |                  LUCONIA                            6
+1103  LUCY    |                  LUCY                               8
+1104  LUCY_ANN|                  LUCY ANN                           2
+1105  LUMINARY|                  LUMINARY                          11
+1106  LUNA    |                  LUNA                               3
+1107  LUZITANI|CE                LUZITANICE                         3
+1108  LYDIA   |                  LYDIA                              8
+1109  LYRA    |                  LYRA                               1
+1110  LYREN_OF|_SALEM            LYREN OF SALEM                     1
+1111  M.C.STEV|ENS               M.C.STEVENS                        2
+1112  M.E.BAKE|R                 M.E.BAKER                          1
+1113  M.FORBES|_OF_BOSTON        M.FORBES OF BOSTON                 2
+1114  M.HOWES |                  M.HOWES                            2
+1115  MACAULAY|                  MACAULAY                           3
+1117  MACEDO*N|                  MACEDONIAN                         4
+1116  MACEDONI|A                 MACEDONIA                         19
+1118  MADDONA |                  MADDONA                            1
+1119  MAGDELIN|A                 MAGDELINA                          1
+1120  MAGELLAN|                  MAGELLAN                           2
+1121  MAGNET  |                  MAGNET                            16
+1122  MAGNOLIA|                  MAGNOLIA                          22
+1123  MAICA   |                  MAICA                              4
+1124  MAIN    |                  MAIN                               7
+1125  MAINE_LA|W                 MAINE LAW                          3
+1126  MAINO   |                  MAINO                              9
+1127  MAJ*    |                  MAJESTIC                           1
+1128  MAJ*_NEW|_BEDFORD          MAJESTIC OF NEW BEDFORD            7
+1129  MALABUR |                  MALABUR                           15
+1130  MALACCA |                  MALACCA                            1
+1131  MALAY   |                  MALAY                             15
+1132  MALCIBAR|                  MALCIBAR                           4
+1133  MALTA   |                  MALTA                              3
+1134  MAMA    |                  MAMA                               2
+1135  MAN*    |                  MANCHESTER                         3
+1136  MAN*_SAL|EM                MANCHESTER OF SALEM                1
+1137  MANDARIN|                  MANDARIN                           9
+1138  MANELUKE|                  MANELUKE                           3
+1139  MANLIUS |                  MANLIUS                            2
+1146  MAR*    |                  MARGARET                          18
+1152  MAR*EVAN|S                 MARGARETEVANS                      1
+1147  MAR*_AND|_SARAH            MARGARET AND SARAH                 1
+1148  MAR*_ANN|                  MARGARET ANN                       8
+1149  MAR*_ELI|ZA                MARGARET ELIZA                     1
+1150  MAR*_EVA|NS                MARGARET EVANS                    28
+1151  MAR*_MIT|CHELL             MARGARET MITCHELL                  3
+1140  MARATHON|                  MARATHON                           2
+1141  MARCELLA|                  MARCELLA                          17
+1142  MARCIA  |                  MARCIA                            16
+1143  MARCO_PO|LO                MARCO POLO                        17
+1144  MARCUS  |                  MARCUS                             9
+1145  MARENGO_|OF_NEW_BEDFORD    MARENGO OF NEW BEDFORD            10
+1153  MARIA   |                  MARIA                             37
+1158  MARIAN  |                  MARIAN                             6
+1159  MARIANNE|                  MARIANNE                           9
+1154  MARIA_CA|ROLINE            MARIA CAROLINE                     2
+1155  MARIA_JE|WETT              MARIA JEWETT                       4
+1156  MARIA_L.|DAVIS             MARIA L.DAVIS                      2
+1157  MARIA_TH|ERESA             MARIA THERESA                     14
+1160  MARINE  |                  MARINE                             1
+1161  MARINER |                  MARINER                           10
+1162  MARION  |                  MARION                             9
+1163  MARIPOSA|                  MARIPOSA                           9
+1164  MARMION |                  MARMION                            5
+1165  MARMION_|OF_NY             MARMION OF NY                      6
+1166  MARMORA |                  MARMORA                            2
+1167  MARQUIS_|DE_SOMEREALAS     MARQUIS DE SOMEREALAS              2
+1168  MARRIAN |                  MARRIAN                            1
+1169  MARS    |                  MARS                              12
+1170  MARSHALL|                  MARSHALL                          13
+1171  MARTHA  |                  MARTHA                             7
+1173  MARTHA'S|_VINEYARD         MARTHA'S VINEYARD                  3
+1172  MARTHA_A|LLEN              MARTHA ALLEN                       2
+1174  MARY    |                  MARY                              40
+1175  MARY&SUS|AN                MARY & SUSAN                       1
+1176  MARY_A.F|ORREST            MARY A.FORREST                     2
+1177  MARY_A.J|ONES              MARY A.JONES                       1
+1178  MARY_ADE|LIA               MARY ADELIA                        2
+1179  MARY_ANN|                  MARY ANN                          23
+1181  MARY_CHI|TTON              MARY CHITTON                      10
+1182  MARY_ELL|EN                MARY ELLEN                         2
+1183  MARY_F.B|ALCH              MARY F.BALCH                       2
+1186  MARY_HAL|E                 MARY HALE                          7
+1187  MARY_L.S|UTTON             MARY L.SUTTON                      5
+1188  MARY_LOW|ELL               MARY LOWELL                       10
+1189  MARY_MAN|KIN               MARY MANKIN                        2
+1190  MARY_MCR|AE                MARY MCRAE                         4
+1191  MARY_MIT|CHELL             MARY MITCHELL                      2
+1192  MARY_OF_|SOUTHPORT         MARY OF SOUTHPORT                  2
+1193  MARY_REE|D                 MARY REED                          1
+1194  MARY_ROS|S                 MARY ROSS                          6
+1195  MARY_SPR|ING               MARY SPRING                        1
+1196  MARY_WHI|TRIDGE            MARY WHITRIDGE                     6
+1197  MARY_WIL|KINS              MARY WILKINS                       3
+1180  MAR_A*_P|ORTSMOUTH         MARY ANNAH OF PORTSMOUTH           3
+1184  MAR_FR*N|CES               MARY FRANCES                      15
+1185  MAR_FR*Z|IER               MARY FRAZIER                       7
+1198  MASCO   |                  MASCO                              1
+1199  MASCONOM|O                 MASCONOMO                          6
+1200  MASHA   |                  MASHA                              1
+1201  MASON_BA|RNEY              MASON BARNEY                      23
+1202  MASSACHU|SETTS             MASSACHUSETTS                     20
+1203  MATANZAS|                  MATANZAS                           1
+1204  MATILDA |                  MATILDA                           14
+1205  MAURY   |                  MAURY                              2
+1207  MAYF*   |                  MAYFLOWER                          6
+1208  MAYF*_BA|TH                MAYFLOWER OF BATH                  3
+1206  MAY_QUEE|N                 MAY QUEEN                          1
+1209  MAZATTON|                  MAZATTON                           4
+1210  MCDONOUG|H                 MCDONOUGH                          1
+1211  MCLELLAN|                  MCLELLAN                           1
+1213  MEC*_OWN|                  MECHANICS OWN                      2
+1212  MECHANIC|                  MECHANIC                           5
+1214  MEDFORD |                  MEDFORD                            2
+1215  MEDORE  |                  MEDORE                             2
+1216  MELANIE |                  MELANIE                            4
+1217  MELBOURN|E                 MELBOURNE                          1
+1218  MELITA  |                  MELITA                             8
+1219  MELVILLE|                  MELVILLE                           2
+1220  MEMNON  |                  MEMNON                             6
+1221  MEMPHIS |                  MEMPHIS                            3
+1222  MENTOR  |                  MENTOR                             4
+1223  MEPIVNAR|Y                 MEPIVNARY                          1
+1225  MERCA*_B|EDFORD            MERCATOR OF NEW BEDFORD            1
+1224  MERCATOR|                  MERCATOR                          12
+1226  MERCURY |                  MERCURY                            7
+1227  MERIDA  |                  MERIDA                             6
+1228  MERLIN  |                  MERLIN                             3
+1229  MERMAID |                  MERMAID                            2
+1230  MERRIMAC|K                 MERRIMACK                          2
+1231  MESSENGE|R                 MESSENGER                          9
+1232  METACOME|T                 METACOMET                          2
+1233  METAMORA|                  METAMORA                           5
+1234  METEOR  |                  METEOR                             1
+1235  MEXICO  |                  MEXICO                            19
+1236  MIANTONO|MI                MIANTONOMI                         4
+1237  MICHAEL_|ANGELO            MICHAEL ANGELO                     4
+1238  MIDAS   |                  MIDAS                              4
+1239  MIDNIGHT|                  MIDNIGHT                           2
+1240  MILAN   |                  MILAN                             14
+1241  MILFORD |                  MILFORD                            6
+1242  MILO    |                  MILO                               1
+1243  MILTIADE|S                 MILTIADES                          2
+1244  MILTON  |                  MILTON                            24
+1245  MINDORA |                  MINDORA                            1
+1246  MINERVA |                  MINERVA                            9
+1248  MINERVA_|SMYTH             MINERVA SMYTH                      3
+1247  MINERVA_|SMYTH             MINERVA  SMYTH                     5
+1249  MINNA   |                  MINNA                              1
+1250  MINNESOT|A                 MINNESOTA                         24
+1251  MINNETON|KA                MINNETONKA                         7
+1252  MINSTREL|                  MINSTREL                           6
+1253  MIQUELON|                  MIQUELON                           6
+1254  MISCHIEF|                  MISCHIEF                           3
+1255  MOBILE  |                  MOBILE                             2
+1256  MOFFATT |                  MOFFATT                            3
+1257  MOHAWK  |                  MOHAWK                             2
+1258  MOLLIE_M|ETCALF            MOLLIE METCALF                     2
+1259  MONA    |                  MONA                               1
+1260  MONAGAS_|OF_BOSTON         MONAGAS OF BOSTON                  5
+1261  MONGOLIA|                  MONGOLIA                           1
+1262  MONMOUTH|                  MONMOUTH                           1
+1263  MONROE  |                  MONROE                             2
+1264  MONSERRA|TE                MONSERRATE                         3
+1265  MONSOON |                  MONSOON                            8
+1266  MONTANO |                  MONTANO                            8
+1267  MONTAUK |                  MONTAUK                           22
+1268  MONTEREY|                  MONTEREY                           1
+1269  MONTESUM|A                 MONTESUMA                         20
+1270  MONTEVID|EO                MONTEVIDEO                        22
+1271  MONTREAL|                  MONTREAL                          15
+1272  MOPANG  |                  MOPANG                             5
+1273  MORA    |                  MORA                               2
+1274  MOREA   |                  MOREA                              3
+1275  MORGAN_D|IX                MORGAN DIX                         1
+1276  MORGIANA|                  MORGIANA                          14
+1277  MORNING_|LIGHT             MORNING LIGHT                     13
+1278  MORNLIUS|                  MORNLIUS                           1
+1279  MORRISON|                  MORRISON                           7
+1280  MORSE   |                  MORSE                              3
+1281  MORTIMER|_LIVINGSTON       MORTIMER LIVINGSTON                7
+1282  MOSES_TA|YLOR              MOSES TAYLOR                       1
+1283  MOTTO   |                  MOTTO                              1
+1285  MOUNTAIN|_WAVE             MOUNTAIN WAVE                      3
+1284  MOUNT_VE|RNON              MOUNT VERNON                       5
+1286  MOUSAM  |                  MOUSAM                             2
+1287  MOZAMBIQ|UE                MOZAMBIQUE                         3
+1288  MUTIN   |                  MUTIN                              1
+1351  N*_LIGHT|                  NORTHERN LIGHT                     5
+1352  N*_QUEEN|                  NORTHERN QUEEN                     4
+1289  N.B.PALM|ER                N.B.PALMER                        10
+1290  N.D.CHAS|E_OF_BEVERLY      N.D.CHASE OF BEVERLY               2
+1291  N.P.TALM|ADGE              N.P.TALMADGE                       5
+1292  NABOB   |                  NABOB                              7
+1293  NACY_TRE|AT                NACY TREAT                         3
+1294  NANCY_AN|N                 NANCY ANN                          4
+1295  NANCY_TR|EAT               NANCY TREAT                        2
+1296  NANCY_W.|STEVENS           NANCY W.STEVENS                    2
+1297  NANTASKE|T                 NANTASKET                          3
+1298  NARITESK|I                 NARITESKI                          4
+1299  NARO    |                  NARO                               1
+1300  NARRAGAN|SET               NARRAGANSET                        3
+1301  NATAL   |                  NATAL                              1
+1302  NATCHEZ |                  NATCHEZ                            8
+1303  NAUTILUS|                  NAUTILUS                          12
+1304  NAVIGATO|R                 NAVIGATOR                         24
+1305  NAVY    |                  NAVY                              21
+1306  NAZARENE|                  NAZARENE                           1
+1307  NEBRASKA|                  NEBRASKA                           6
+1308  NEHEMIAH|_HAND             NEHEMIAH HAND                      1
+1309  NEPTUNE |                  NEPTUNE                            7
+1310  NEPTUNE'|S_CAR             NEPTUNE'S CAR                      2
+1311  NEREUS  |                  NEREUS                             1
+1312  NESSACUM|CON               NESSACUMCON                        4
+1313  NESTORIA|N                 NESTORIAN                          9
+1314  NEUAVA_G|RANADA            NEUAVA GRANADA                     2
+1315  NEUTRALI|TY                NEUTRALITY                         5
+1316  NEVADA  |                  NEVADA                             2
+1323  NEWARK  |                  NEWARK                             6
+1324  NEWCASTL|E                 NEWCASTLE                         15
+1325  NEWTON  |                  NEWTON                            20
+1317  NEW_ENGL|AND               NEW ENGLAND                        2
+1318  NEW_HAMP|SHIRE             NEW HAMPSHIRE                      3
+1319  NEW_JERS|EY                NEW JERSEY                         3
+1320  NEW_ORLE|ANS               NEW ORLEANS                        1
+1321  NEW_WORL|D                 NEW WORLD                         26
+1322  NEW_YORK|                  NEW YORK                          67
+1326  NIAGARA |                  NIAGARA                           18
+1327  NIANTIC |                  NIANTIC                            1
+1328  NIANTICK|                  NIANTICK                           1
+1329  NICHOLAS|_BIDDLE           NICHOLAS BIDDLE                    2
+1330  NIGHTING|ALE               NIGHTINGALE                        6
+1331  NILE    |                  NILE                              22
+1332  NIMROD  |                  NIMROD                            15
+1333  NIOBE   |                  NIOBE                              9
+1338  NOBLE   |                  NOBLE                              2
+1339  NONPAREI|L                 NONPAREIL                          3
+1341  NORDAMER|ICA               NORDAMERICA                        4
+1342  NORMA   |                  NORMA                              2
+1343  NORMANDY|                  NORMANDY                           3
+1344  NORSSA_S|ENHORA_DE_CONCEI  NORSSA SENHORA DE CONCEI           5
+1353  NORTHUMB|ERIAND            NORTHUMBERIAND                     1
+1347  NORTH_BE|ND                NORTH BEND                         2
+1348  NORTH_CA|ROLINA            NORTH CAROLINA                     2
+1349  NORTH_PO|INT               NORTH POINT                        1
+1350  NORTH_WI|ND                NORTH WIND                         3
+1340  NOR_WEST|ER                NOR WESTER                         3
+1354  NOT_LIST|ED                NOT LISTED                        40
+1355  NOVICK  |                  NOVICK                             6
+1356  NUN     |                  NUN                                4
+1357  NYE     |                  NYE                                1
+1345  N_AMER* |                  NORTH AMERICA                      2
+1346  N_AMER*N|                  NORTH AMERICAN                     2
+1358  O.S.GOOD|ELL               O.S.GOODELL                        4
+1359  OBERON  |                  OBERON                             1
+1360  OCEAN   |                  OCEAN                             33
+1365  OCEANUS |                  OCEANUS                            4
+1361  OCEAN_BI|RD                OCEAN BIRD                         3
+1362  OCEAN_MO|NARCH             OCEAN MONARCH                      5
+1363  OCEAN_ST|EED               OCEAN STEED                        1
+1364  OCEAN_TE|LEGRAPH           OCEAN TELEGRAPH                    3
+1366  OCTAVIA |                  OCTAVIA                           16
+1367  ODD_FELL|OW                ODD FELLOW                         2
+1368  OGLETHOR|PE                OGLETHORPE                         1
+1369  OHIO    |                  OHIO                              10
+1370  OHIO_OF_|NEW_BEDFORD       OHIO OF NEW BEDFORD                2
+1371  OLD_COLO|NY                OLD COLONY                         2
+1372  OLD_HICK|ORY               OLD HICKORY                        5
+1373  OLGA    |                  OLGA                               9
+1375  OLIVER_J|.HAYES            OLIVER J.HAYES                     5
+1374  OLIVE_BR|ANCH              OLIVE BRANCH                       2
+1376  OMEGA   |                  OMEGA                              1
+1377  ONEIDA  |                  ONEIDA                            27
+1378  ONTARIO |                  ONTARIO                            4
+1379  ONWARD  |                  ONWARD                             6
+1380  ORB     |                  ORB                                5
+1381  ORBIT   |                  ORBIT                              4
+1382  OREGON  |                  OREGON                            13
+1383  ORIEL   |                  ORIEL                              1
+1384  ORIENTAL|                  ORIENTAL                          12
+1385  ORIOLE  |                  ORIOLE                            20
+1386  ORION   |                  ORION                              3
+1387  ORISSA  |                  ORISSA                             5
+1388  ORIZIMBO|                  ORIZIMBO                           1
+1389  ORK     |                  ORK                                3
+1390  ORLEANS |                  ORLEANS                           18
+1391  OROZIMBO|                  OROZIMBO                           5
+1392  ORPHEUS |                  ORPHEUS                            5
+1393  ORTOLAN |                  ORTOLAN                            2
+1394  OSBORN_H|OWES              OSBORN HOWES                       2
+1395  OSCAR   |                  OSCAR                             12
+1396  OSCEOLA |                  OSCEOLA                            5
+1397  OSCEOLA_|OF_NEW_BEDFORD    OSCEOLA OF NEW BEDFORD             1
+1398  OSMANLI |                  OSMANLI                            3
+1399  OSPREY  |                  OSPREY                             5
+1400  OTTAWA  |                  OTTAWA                            12
+1401  OWHYHEC_|OF_BOSTON         OWHYHEC OF BOSTON                  1
+1402  OXFORD  |                  OXFORD                             8
+1403  OXNARD  |                  OXNARD                             4
+1499  P*_ORANG|E                 PRINCE OF ORANGE                   1
+1500  P*_WALES|                  PRINCE OF WALES                    1
+1404  P.GODFRE|Y                 P.GODFREY                          6
+1405  P.PENDLE|TON               P.PENDLETON                        2
+1406  PACIFIC |                  PACIFIC                           14
+1407  PACKET  |                  PACKET                             1
+1408  PACTOLAS|                  PACTOLAS                           2
+1409  PACTOLUS|                  PACTOLUS                           2
+1410  PAGODA  |                  PAGODA                             3
+1411  PALADIN_|OF_BALTIMORE      PALADIN OF BALTIMORE               3
+1412  PALESTIN|E                 PALESTINE                         10
+1413  PALLAS  |                  PALLAS                             1
+1414  PALMETTO|                  PALMETTO                           2
+1415  PALMYRA |                  PALMYRA                            1
+1416  PANAMA  |                  PANAMA                            33
+1417  PANCHITA|                  PANCHITA                          10
+1418  PANDOR  |                  PANDOR                             1
+1419  PANTHEON|                  PANTHEON                           8
+1420  PANTHER |                  PANTHER                           21
+1421  PAOLI   |                  PAOLI                              9
+1422  PARAGON |                  PARAGON                            1
+1423  PARLAND |                  PARLAND                            1
+1424  PARODI_O|F_PERU            PARODI OF PERU                     8
+1425  PARRAMAT|TA                PARRAMATTA                         1
+1426  PARTHENO|N                 PARTHENON                          3
+1427  PARTHIAN|                  PARTHIAN                           6
+1428  PATHFIND|ER                PATHFINDER                         4
+1429  PATRICK |                  PATRICK                            1
+1430  PATRICK_|HENRY             PATRICK HENRY                     53
+1431  PATSY_BL|OUNT              PATSY BLOUNT                      18
+1433  PAULISTA|                  PAULISTA                           1
+1432  PAUL_JON|ES                PAUL JONES                        16
+1434  PAVANA  |                  PAVANA                            15
+1435  PEACOCK |                  PEACOCK                            3
+1436  PEDLAR  |                  PEDLAR                             3
+1437  PEERLESS|                  PEERLESS                          39
+1438  PEGGY   |                  PEGGY                              3
+1439  PELICAN_|STATE             PELICAN STATE                      1
+1440  PEMAMAQU|ON                PEMAMAQUON                         2
+1441  PEMBROKE|                  PEMBROKE                           2
+1442  PENEDOS |                  PENEDOS                            1
+1443  PENGUIN |                  PENGUIN                            2
+1444  PENNSYLV|ANIA              PENNSYLVANIA                       1
+1445  PENROVIA|N                 PENROVIAN                          2
+1446  PEQUOT  |                  PEQUOT                             2
+1447  PERI    |                  PERI                               1
+1448  PERRY   |                  PERRY                              3
+1449  PERSEVER|ANCE              PERSEVERANCE                       1
+1450  PERSIA  |                  PERSIA                            12
+1451  PERU    |                  PERU                               2
+1452  PERUVIAN|                  PERUVIAN                          15
+1453  PETER_HA|TTRICK            PETER HATTRICK                     1
+1454  PETREA  |                  PETREA                             4
+1455  PETREL  |                  PETREL                             5
+1456  PEYTONA |                  PEYTONA                            1
+1457  PHANTOM |                  PHANTOM                           21
+1458  PHANTON |                  PHANTON                            1
+1459  PHEBE   |                  PHEBE                              9
+1460  PHILADEL|PHIA              PHILADELPHIA                      38
+1461  PHILETUS|                  PHILETUS                           2
+1462  PHILIP_F|IRST              PHILIP FIRST                       7
+1463  PHILIP_T|ABB               PHILIP TABB                        2
+1464  PHILLIP_|HOWE              PHILLIP HOWE                       3
+1465  PHILOMEL|A                 PHILOMELA                          2
+1466  PHOCION |                  PHOCION                            3
+1467  PHOENIX |                  PHOENIX                            5
+1468  PHOENIX_|THE_LIZARD        PHOENIX THE LIZARD                 4
+1469  PIEDMONT|                  PIEDMONT                           3
+1470  PILET   |                  PILET                              2
+1471  PILGRIM |                  PILGRIM                            9
+1472  PIONEER |                  PIONEER                            4
+1473  PIONEER_|OF_BALTIMORE      PIONEER OF BALTIMORE               1
+1480  PL*     |                  PLYMOUTH                          37
+1481  PL*_ROCK|                  PLYMOUTH ROCK                      1
+1474  PLANES_O|F_SALEM           PLANES OF SALEM                    4
+1475  PLANTAGE|NET               PLANTAGENET                        2
+1476  PLANTER |                  PLANTER                            4
+1477  PLATO   |                  PLATO                              4
+1478  PLATO_OF|_BOSTON           PLATO OF BOSTON                    2
+1479  PLUTARCH|                  PLUTARCH                           1
+1482  POCAHONT|AS                POCAHONTAS                         1
+1483  POLLUX  |                  POLLUX                             6
+1484  POLYNESI|AN                POLYNESIAN                         1
+1485  POMPEY  |                  POMPEY                             7
+1486  PONTIAC |                  PONTIAC                            5
+1487  PORCIA  |                  PORCIA                             6
+1488  PORTLAND|                  PORTLAND                           9
+1489  PORTSMOU|TH                PORTSMOUTH                        13
+1490  POST    |                  POST                              10
+1491  POTOMAC |                  POTOMAC                            7
+1492  POWHATAN|                  POWHATAN                           5
+1501  PR*ESS_A|LICE              PRINCESS ALICE                     2
+1502  PR*ESS_S|OPHIA             PRINCESS SOPHIA                    1
+1493  PREBLE  |                  PREBLE                             2
+1494  PRESIDEN|T                 PRESIDENT                         28
+1495  PRIDE_OF|_THE_SEA          PRIDE OF THE SEA                   1
+1496  PRIMA_DO|NNA               PRIMA DONNA                        2
+1497  PRIMERO |                  PRIMERO                            1
+1503  PRINCETO|N                 PRINCETON                         40
+1498  PRINCE_A|LBERT             PRINCE ALBERT                     31
+1504  PRISTIS |                  PRISTIS                            4
+1505  PROBES  |                  PROBES                             6
+1506  PROBUS  |                  PROBUS                             3
+1507  PROMPT  |                  PROMPT                             6
+1508  PROVIDEN|CIA               PROVIDENCIA                        5
+1509  PURLEP  |                  PURLEP                             1
+1510  PUTNAM  |                  PUTNAM                             3
+1511  PYRAMID |                  PYRAMID                            2
+1514  Q*_CLIPP|ERS               QUEEN OF CLIPPERS                  4
+1515  Q*_THE_E|AST               QUEEN OF THE EAST                  3
+1516  Q*_THE_W|EST               QUEEN OF THE WEST                 21
+1512  QUEBEC  |                  QUEBEC                             8
+1513  QUEEN_AD|ALAIDE            QUEEN ADALAIDE                     1
+1517  QUICKSTE|P                 QUICKSTEP                          3
+1518  R.B.FORB|ES                R.B.FORBES                         1
+1519  R.C.WINT|HROP              R.C.WINTHROP                       3
+1520  R.DEZALD|A                 R.DEZALDA                          1
+1521  R.G.W.DO|DGE               R.G.W.DODGE                        1
+1522  R.H.DOUG|LAS               R.H.DOUGLAS                       53
+1523  R.STANDI|SH                R.STANDISH                         4
+1524  RACE_HOR|SE                RACE HORSE                         1
+1525  RADIUS  |                  RADIUS                             2
+1526  RADUGA  |                  RADUGA                             7
+1527  RAINBOW |                  RAINBOW                            5
+1528  RAIRTAN |                  RAIRTAN                            4
+1529  RAJAH   |                  RAJAH                              3
+1530  RALEIGH |                  RALEIGH                            2
+1531  RAMBLER |                  RAMBLER                            2
+1532  RANGES  |                  RANGES                             1
+1533  RAPID   |                  RAPID                              4
+1534  RAPID_OF|_GOTTENBOURG      RAPID OF GOTTENBOURG               3
+1535  RARITAN |                  RARITAN                            1
+1536  RATCLIFF|                  RATCLIFF                           1
+1537  RATTLER |                  RATTLER                            4
+1538  RAVEN   |                  RAVEN                             16
+1539  RAVEN_DE|_ZALDO            RAVEN DE ZALDO                     1
+1540  REALM   |                  REALM                             13
+1541  REBECCA |                  REBECCA                            2
+1542  RECOVERY|                  RECOVERY                          12
+1543  RED_JACK|ET                RED JACKET                         1
+1544  RED_WING|                  RED WING                           2
+1545  REGATTA |                  REGATTA                            4
+1547  REIND*_B|OSTON             REINDEER OF BOSTON                 3
+1546  REINDEER|                  REINDEER                          11
+1548  RELEASE |                  RELEASE                            1
+1549  RELIEF  |                  RELIEF                            19
+1550  RENATA  |                  RENATA                             6
+1551  REPORTER|                  REPORTER                           6
+1552  REPUBLIC|                  REPUBLIC                          17
+1554  RES*NEW_|YORK              RESOLUTE OF NEW YORK               3
+1553  RESOLUTE|                  RESOLUTE                           1
+1555  RESOLUTI|ON                RESOLUTION                         4
+1556  RESOURCE|                  RESOURCE                           2
+1557  RESTITUT|ION               RESTITUTION                       61
+1559  RETRI*ER|                  RETRIEVER                          1
+1558  RETRIEVE|                  RETRIEVE                           1
+1560  REVELY  |                  REVELY                             5
+1561  REVERE  |                  REVERE                             1
+1562  REWARD  |                  REWARD                             3
+1563  REYNARD |                  REYNARD                            8
+1564  RHODE_IS|LAND              RHODE ISLAND                       1
+1565  RICHA*_A|LSOP              RICHARD ALSOP                     30
+1566  RICHA*_M|ITCHELL           RICHARD MITCHELL                  35
+1567  RICHMOND|                  RICHMOND                          15
+1568  RIENZI  |                  RIENZI                             4
+1569  RINGLEAD|ER                RINGLEADER                         7
+1570  RIO     |                  RIO                                3
+1571  RIO_GRAN|DE                RIO GRANDE                         2
+1573  ROB'T_BO|WNE               ROB'T BOWNE                        1
+1574  ROB'T_BU|RTON              ROB'T BURTON                       4
+1575  ROB'T_C.|WINTHROP          ROB'T C.WINTHROP                   3
+1576  ROB'T_ED|WARDS             ROB'T EDWARDS                      1
+1577  ROB'T_H.|DIXEY             ROB'T H.DIXEY                      3
+1578  ROB'T_PA|LSFORD            ROB'T PALSFORD                     3
+1579  ROB'T_PU|LSFORD            ROB'T PULSFORD                     2
+1582  ROBERTIN|A                 ROBERTINA                          1
+1580  ROBERT_H|ARDING            ROBERT HARDING                     1
+1581  ROBERT_W|ING               ROBERT WING                        4
+1583  ROBINHOO|D                 ROBINHOOD                          2
+1584  ROBOREUS|                  ROBOREUS                           3
+1572  ROB_ROY |                  ROB ROY                            1
+1585  ROCHELLE|                  ROCHELLE                          19
+1586  ROCHESTE|R                 ROCHESTER                          4
+1587  ROCKET  |                  ROCKET                             8
+1588  ROCKINGH|AM                ROCKINGHAM                         6
+1589  ROCKLAND|                  ROCKLAND                           3
+1590  RODMAN  |                  RODMAN                             8
+1591  RODNEY_C|ARR               RODNEY CARR                        4
+1592  ROEBUCK |                  ROEBUCK                            5
+1593  ROLLA   |                  ROLLA                              1
+1594  ROLLING_|WAVE              ROLLING WAVE                       1
+1595  ROMAN   |                  ROMAN                             15
+1596  ROMANCE_|OF_THE_SEA        ROMANCE OF THE SEA                 3
+1598  ROMANO-D|ANTE              ROMANO-DANTE                       1
+1597  ROMANO_D|ANTE              ROMANO DANTE                       1
+1599  ROME    |                  ROME                              13
+1600  ROMULUS |                  ROMULUS                            5
+1601  RONALDSO|N                 RONALDSON                          2
+1602  ROSAMOND|                  ROSAMOND                           4
+1603  ROSANNA |                  ROSANNA                           10
+1604  ROSARIO |                  ROSARIO                           10
+1605  ROSCOE  |                  ROSCOE                            60
+1606  ROSCUIS |                  ROSCUIS                           12
+1607  ROSE    |                  ROSE                               4
+1608  ROSEMOND|                  ROSEMOND                           1
+1609  ROUBLE  |                  ROUBLE                             3
+1610  ROUSSEAU|                  ROUSSEAU                          17
+1611  ROVER   |                  ROVER                              4
+1612  ROWLAND |                  ROWLAND                            1
+1614  ROXANA  |                  ROXANA                            10
+1613  ROXAN_OF|_BOSTON           ROXAN OF BOSTON                    2
+1615  ROYAL_CH|ARTER             ROYAL CHARTER                      1
+1616  ROYAL_SA|ILOR              ROYAL SAILOR                       1
+1617  RUBICON |                  RUBICON                            4
+1618  RUNNYMED|E                 RUNNYMEDE                          4
+1619  RUSSELL |                  RUSSELL                            6
+1620  RUSSELL_|OF_NEWBURG        RUSSELL OF NEWBURG                 4
+1621  S.D.HORT|ON                S.D.HORTON                         1
+1622  S.H.TALB|OT_OF_NEW_YORK    S.H.TALBOT OF NEW YORK             8
+1623  S.S.BISH|OP                S.S.BISHOP                         3
+1624  S.THURST|ON                S.THURSTON                         2
+1625  S.W.PORT|ER_OF_SALEM       S.W.PORTER OF SALEM                2
+1665  SA*_H.SH|OW                SARAH H.SHOW                       2
+1666  SA*_H.SN|OW                SARAH H.SNOW                       2
+1626  SABINA  |                  SABINA                             3
+1627  SABINE  |                  SABINE                             8
+1628  SACHEM  |                  SACHEM                             9
+1629  SACRAMEN|TO                SACRAMENTO                         3
+1630  SAID_BIN|_SULTAN           SAID BIN SULTAN                   13
+1631  SALACIA |                  SALACIA                            4
+1632  SALEM   |                  SALEM                              2
+1633  SALLY_AN|N                 SALLY ANN                          2
+1634  SALLY_BA|RKER              SALLY BARKER                       3
+1638  SAM*    |                  SAMUEL                            19
+1640  SAM*&EDW|ARD               SAMUEL & EDWARD                    1
+1641  SAM*&JOH|N                 SAMUEL & JOHN                      3
+1642  SAM*_AND|_EDWARD           SAMUEL AND EDWARD                  4
+1639  SAM*_APP|LETON             SAMUEL  APPLETON                   3
+1643  SAM*_CHU|RCHMAN            SAMUEL CHURCHMAN                   1
+1644  SAM*_GRA|IN                SAMUEL GRAIN                       1
+1645  SAM*_LAW|RENCE             SAMUEL LAWRENCE                    2
+1646  SAM*_Q.A|DAMS              SAMUEL Q. ADAMS                    1
+1647  SAM*_ROB|ERTS              SAMUEL ROBERTS                     4
+1648  SAM*_ROB|ERTSON            SAMUEL ROBERTSON                   3
+1649  SAM*_RUS|SELL              SAMUEL RUSSELL                    31
+1636  SAMOSET |                  SAMOSET                            7
+1637  SAMPSON |                  SAMPSON                            3
+1635  SAM_SLIC|K                 SAM SLICK                          2
+1653  SANCHO_P|ANZA              SANCHO PANZA                       4
+1654  SANTA_AN|NA                SANTA ANNA                         2
+1655  SANTA_CR|UZ                SANTA CRUZ                        15
+1656  SANTA_IS|ABEL              SANTA ISABEL                       1
+1657  SANTIAGO|                  SANTIAGO                           7
+1650  SAN_FRAN|CISCO             SAN FRANCISCO                      1
+1651  SAN_GIOV|ANNI              SAN GIOVANNI                       1
+1652  SAN_JACI|NTO               SAN JACINTO                       15
+1658  SAPHIRE |                  SAPHIRE                            4
+1659  SAPPHO  |                  SAPPHO                            14
+1660  SARAH   |                  SARAH                             36
+1661  SARAH&EL|IZA               SARAH & ELIZA                      4
+1670  SARAH-AR|SELIA             SARAH-ARSELIA                      1
+1662  SARAH_BO|YD                SARAH BOYD                        20
+1663  SARAH_CH|ASE               SARAH CHASE                        4
+1664  SARAH_FR|ANCIS             SARAH FRANCIS                     12
+1667  SARAH_OF|_BANGOR           SARAH OF BANGOR                    2
+1668  SARAH_PA|RKER              SARAH PARKER                       9
+1669  SARAH_SA|NDS               SARAH SANDS                        5
+1671  SARANAK |                  SARANAK                            2
+1672  SARATOGA|                  SARATOGA                          23
+1673  SARDINIA|N                 SARDINIAN                          2
+1674  SARTELLA|                  SARTELLA                           3
+1675  SARTELLE|                  SARTELLE                          11
+1676  SAVANNAH|                  SAVANNAH                          17
+1677  SAXONVIL|LE                SAXONVILLE                         6
+1678  SCARGO  |                  SCARGO                             4
+1679  SCIENCE |                  SCIENCE                            2
+1680  SCIO    |                  SCIO                               4
+1681  SCONIUM |                  SCONIUM                            5
+1682  SCOTIA  |                  SCOTIA                            15
+1691  SEAMAN  |                  SEAMAN                             9
+1692  SEAMAN'S|_BRIDE            SEAMAN'S BRIDE                     7
+1693  SEAMEN  |                  SEAMEN                             1
+1683  SEA_BIRD|                  SEA BIRD                           1
+1684  SEA_EAGL|E                 SEA EAGLE                          3
+1685  SEA_LARK|                  SEA LARK                           3
+1686  SEA_MEW |                  SEA MEW                           10
+1687  SEA_NYMP|H                 SEA NYMPH                          4
+1688  SEA_QUEE|N                 SEA QUEEN                          5
+1689  SEA_SERP|ENT               SEA SERPENT                        7
+1690  SEA_WITC|H                 SEA WITCH                         21
+1694  SELINA  |                  SELINA                             3
+1695  SENATOR |                  SENATOR                           13
+1696  SEPTEMBE|R                 SEPTEMBER                          3
+1697  SERAMPOR|E                 SERAMPORE                          8
+1698  SERINGAP|ATAM              SERINGAPATAM                       3
+1699  SEVANTER|_OF_NY            SEVANTER OF NY                     1
+1700  SEVERN  |                  SEVERN                             1
+1701  SHAH_ALL|UM                SHAH ALLUM                         2
+1702  SHAMROCK|                  SHAMROCK                           2
+1703  SHARK   |                  SHARK                              2
+1704  SHAWMUT |                  SHAWMUT                            4
+1705  SHEFFIEL|D                 SHEFFIELD                          7
+1706  SHEPHERD|ESS               SHEPHERDESS                        2
+1707  SHERIDEN|                  SHERIDEN                           7
+1708  SHERWOOD|                  SHERWOOD                           3
+1709  SHOOTING|_STAR             SHOOTING STAR                      9
+1710  SIAM    |                  SIAM                              11
+1711  SIDDONS |                  SIDDONS                            5
+1712  SIDE_HAM|ET                SIDE HAMET                         2
+1713  SILAS_HO|LMES_OF_NEW_YORK  SILAS HOLMES OF NEW YORK           1
+1714  SILAS_RI|CHARDS            SILAS RICHARDS                     6
+1715  SILERIA |                  SILERIA                            2
+1716  SIMOON  |                  SIMOON                             4
+1717  SINGAPOR|E                 SINGAPORE                          1
+1722  SIRI    |                  SIRI                               2
+1723  SIROCCA |                  SIROCCA                            2
+1724  SIROCCO |                  SIROCCO                            2
+1718  SIR_CHAR|LES_NAPIER        SIR CHARLES NAPIER                 1
+1719  SIR_H.CO|MPTON             SIR H.COMPTON                     40
+1720  SIR_R*  |                  SIR ROBERT                         1
+1721  SIR_R*PE|EL                SIR ROBERT PEEL                    4
+1725  SIUM    |                  SIUM                               3
+1726  SKYLARK |                  SKYLARK                            2
+1727  SMYRNA  |                  SMYRNA                            11
+1728  SOLON   |                  SOLON                              1
+1729  SOPHIA  |                  SOPHIA                             2
+1730  SOPHIA_A|ND_ELIZA          SOPHIA AND ELIZA                   4
+1731  SOPHIA_W|ALKER             SOPHIA WALKER                      2
+1732  SOPHRONI|A                 SOPHRONIA                         13
+1734  SOUTHAMP|TON               SOUTHAMPTON                       13
+1735  SOUTHEN |                  SOUTHEN                            6
+1733  SOUTH_BO|STON              SOUTH BOSTON                      16
+1736  SOVEREIG|N_OF_THE_SEAS     SOVEREIGN OF THE SEAS              3
+1737  SPARK*_S|EA                SPARKLING SEA                      2
+1738  SPARK*_W|AVE               SPARKLING WAVE                     5
+1739  SPENCER_|KIRBY             SPENCER KIRBY                      5
+1740  SPIRIT_O|F_SEA             SPIRIT OF SEA                      2
+1741  SPLE*   |                  SPLENDID                          41
+1742  SPLE*_ED|GARTOWN           SPLENDID OF EDGARTOWN              1
+1743  SQUANKS |                  SQUANKS                            1
+1744  SQUANTUM|                  SQUANTUM                           1
+1745  ST.DENNI|S                 ST.DENNIS                          7
+1746  ST.FRANC|IS_XAVIER         ST.FRANCIS XAVIER                  4
+1747  ST.GERMA|IN                ST.GERMAIN                         9
+1748  ST.JAMES|                  ST.JAMES                           3
+1749  ST.LAURE|NCE               ST.LAURENCE                        2
+1750  ST.LAWRE|NCE               ST.LAWRENCE                        5
+1751  ST.LOUIS|                  ST.LOUIS                           8
+1752  ST.MARY |                  ST.MARY                            3
+1753  ST.PATRI|CK                ST.PATRICK                        22
+1754  ST.PAUL |                  ST.PAUL                            4
+1755  ST.PETER|                  ST.PETER                           7
+1756  STAFFORD|SHIRE_OF_BOSTON   STAFFORDSHIRE OF BOSTON            5
+1757  STAG_HOU|ND_OF_BOSTON      STAG HOUND OF BOSTON               4
+1758  STALWART|_OF_NEW_YORK      STALWART OF NEW YORK               5
+1759  STANTON |                  STANTON                            8
+1760  STAR    |                  STAR                               7
+1766  STARLIGH|T                 STARLIGHT                          7
+1767  STARR_KI|NG                STARR KING                         7
+1761  STAR_OF_|HOPE              STAR OF HOPE                       1
+1765  STAR_REP|UBLIC             STAR REPUBLIC                      4
+1762  STAR_T*S|EA                STAR OF THE SEA                    2
+1763  STAR_T*U|NION              STAR OF THE UNION                  4
+1764  STAR_T*W|EST               STAR OF THE WEST                   1
+1768  STATELY |                  STATELY                            2
+1769  STATIRA |                  STATIRA                           17
+1770  STATIRA_|MOOSE             STATIRA MOOSE                      1
+1771  STEP*BAL|DWIN              STEPHEN BALDWIN                    7
+1772  STEP*BRE|WER               STEPHEN BREWER                    13
+1773  STEP*LUR|MAN               STEPHEN LURMAN                    11
+1774  STINGRAY|                  STINGRAY                           5
+1775  STONINGT|ON                STONINGTON                         3
+1776  STORM   |                  STORM                              7
+1777  STORM_BI|RD                STORM BIRD                         3
+1778  STORM_KI|NG                STORM KING                         3
+1779  STREGLIT|E                 STREGLITE                          4
+1780  SUBLIME |                  SUBLIME                            7
+1781  SUFFOLK |                  SUFFOLK                            3
+1782  SUKEY   |                  SUKEY                              4
+1783  SUL*_HMS|                  SULPHUR, HMS                       1
+1784  SULTAN  |                  SULTAN                             3
+1785  SULTANA |                  SULTANA                            4
+1786  SUMATRA |                  SUMATRA                            6
+1787  SUMTER  |                  SUMTER                             1
+1788  SUPERB  |                  SUPERB                             2
+1789  SUPERIOR|                  SUPERIOR                           2
+1790  SUPPLY  |                  SUPPLY                            15
+1791  SURF    |                  SURF                               1
+1792  SURPRISE|                  SURPRISE                          16
+1793  SUSAN   |                  SUSAN                             15
+1794  SUSAN_DR|EW                SUSAN DREW                         2
+1795  SUSAN_DU|NCAN              SUSAN DUNCAN                       2
+1796  SUSAN_E.|HOWELL            SUSAN E.HOWELL                     6
+1797  SUSAN_JA|NE                SUSAN JANE                        10
+1798  SUSAN_L.|FITZGERALD        SUSAN L.FITZGERALD                 4
+1799  SUSIE_GI|BBS               SUSIE GIBBS                       11
+1800  SUSQUEHA|NNA               SUSQUEHANNA                        8
+1801  SUWARROW|                  SUWARROW                           3
+1802  SWAN_OF_|BALTIMORE         SWAN OF BALTIMORE                  7
+1803  SWEDEN  |                  SWEDEN                             3
+1804  SWEDEN_O|F_BOSTON          SWEDEN OF BOSTON                   5
+1805  SWEEPSTA|KES               SWEEPSTAKES                        2
+1806  SWIFTSUR|E                 SWIFTSURE                          1
+1807  SWITZERL|AND               SWITZERLAND                        9
+1808  SWORDFIS|H                 SWORDFISH                         13
+1809  SYLVIA  |                  SYLVIA                             2
+1810  T.A.WARD|                  T.A.WARD                           6
+1811  T.B.WATT|SON               T.B.WATTSON                        1
+1812  T.H.PERK|INS               T.H.PERKINS                        3
+1813  T.W.BLOD|GER               T.W.BLODGER                        4
+1814  T.W.COFF|IN                T.W.COFFIN                         2
+1815  TAGUS_OF|_BOSTON           TAGUS OF BOSTON                    1
+1816  TALBOT  |                  TALBOT                            11
+1817  TALISMAN|                  TALISMAN                           2
+1818  TALLMADG|E                 TALLMADGE                          4
+1819  TALSETTE|                  TALSETTE                           1
+1820  TAM_O.SH|ANTER             TAM O. SHANTER                     1
+1821  TAROLINT|A                 TAROLINTA                         47
+1822  TARQUIN |                  TARQUIN                           23
+1823  TARQUINA|                  TARQUINA                           3
+1824  TARTAR  |                  TARTAR                            19
+1825  TAUDEM  |                  TAUDEM                             4
+1826  TAURUS  |                  TAURUS                             1
+1827  TEDESCO |                  TEDESCO                            3
+1828  TEJUCA  |                  TEJUCA                             2
+1829  TELASSER|                  TELASSER                           3
+1830  TELEGRAP|H                 TELEGRAPH                         24
+1831  TELLUS  |                  TELLUS                             1
+1832  TEMPLETO|N                 TEMPLETON                          3
+1833  TENNESSE|E                 TENNESSEE                          3
+1834  TENOBIA |                  TENOBIA                            1
+1835  TERROR  |                  TERROR                             1
+1836  THACTUS |                  THACTUS                            2
+1837  THADDEUS|                  THADDEUS                           1
+1838  THAMES  |                  THAMES                             5
+1839  THEODOR |                  THEODOR                            3
+1840  THEOXENA|                  THEOXENA                           3
+1841  THETIS  |                  THETIS                             1
+1842  THOM*ARB|UTHNOT            THOMAS ARBUTHNOT                   3
+1844  THOM*B.W|ALES              THOMAS B.WALES                     3
+1843  THOM*B.W|ALES              THOMAS B. WALES                    2
+1845  THOM*CAM|PELL              THOMAS CAMPELL                     3
+1846  THOM*CHU|RCH               THOMAS CHURCH                      3
+1847  THOM*DIC|KASON             THOMAS DICKASON                    4
+1848  THOM*SCA|TTERGOOD          THOMAS SCATTERGOOD                 2
+1849  THOM*W.S|EARS              THOMAS W. SEARS                    3
+1850  THOM*WRI|GHT               THOMAS WRIGHT                      6
+1851  THORN   |                  THORN                              1
+1852  THOS.W.S|EARS              THOS.W.SEARS                       2
+1853  THREE_BR|OTHERS            THREE BROTHERS                    13
+1854  TIBERA  |                  TIBERA                             2
+1855  TICONDER|OGA               TICONDEROGA                        7
+1856  TIGRIS  |                  TIGRIS                             1
+1857  TIMOLEON|                  TIMOLEON                          13
+1858  TINQUA  |                  TINQUA                             8
+1859  TIOGA   |                  TIOGA                              3
+1860  TITAN   |                  TITAN                              6
+1861  TIVOLA_O|F_HAMPDEN         TIVOLA OF HAMPDEN                  2
+1862  TOM     |                  TOM                                1
+1863  TONQUIN |                  TONQUIN                            2
+1864  TORNADO |                  TORNADO                            3
+1865  TORONTO |                  TORONTO                           16
+1866  TORRENT |                  TORRENT                            5
+1867  TORY    |                  TORY                               1
+1868  TOULON  |                  TOULON                            18
+1870  TRADER  |                  TRADER                             2
+1869  TRADE_WI|ND                TRADE WIND                         3
+1871  TRANQUIL|LIDAD             TRANQUILLIDAD                     10
+1872  TREMONT |                  TREMONT                            3
+1873  TRENTON |                  TRENTON                            3
+1874  TRESCOTT|                  TRESCOTT                           7
+1875  TRIMOGNE|T                 TRIMOGNET                          1
+1876  TRITON  |                  TRITON                             1
+1877  TROPIC  |                  TROPIC                             3
+1878  TRUANN  |                  TRUANN                             1
+1879  TSAR    |                  TSAR                               7
+1880  TURNER  |                  TURNER                             6
+1881  TUSCALOO|SA                TUSCALOOSA                         4
+1882  TUSCANY |                  TUSCANY                            1
+1883  TUSCAROR|A                 TUSCARORA                          6
+1884  TWO_BROT|HERS              TWO BROTHERS                      14
+1885  TYBEE   |                  TYBEE                              6
+1886  TYPHOON |                  TYPHOON                            6
+1898  U.S.*_FR|IGATE             UNITED STATES FRIGATE              1
+1887  U.S.JAME|STOWN             U.S.JAMESTOWN                      2
+1888  U.S.MAIL|                  U.S.MAIL                           1
+1889  U.S.MERR|IMACK             U.S.MERRIMACK                      1
+1890  UNCAS   |                  UNCAS                              8
+1891  UNCLE_TO|BY                UNCLE TOBY                         1
+1892  UNCOWAH |                  UNCOWAH                            4
+1893  UNDERWRI|TER               UNDERWRITER                        8
+1894  UNICORN |                  UNICORN                            2
+1895  UNION   |                  UNION                             10
+1896  UNION_OF|_BALTIMORE        UNION OF BALTIMORE                 4
+1897  UNITED_S|TATES             UNITED STATES                     14
+1899  URANIA  |                  URANIA                             1
+1900  URIEL_OF|_BOSTON           URIEL OF BOSTON                    3
+1901  URSULA  |                  URSULA                             2
+1902  UXON    |                  UXON                               1
+1903  VALKYRIE|N                 VALKYRIEN                         10
+1904  VALPARAI|SO                VALPARAISO                        29
+1905  VANCOUVE|R                 VANCOUVER                          9
+1906  VANDALIA|                  VANDALIA                          18
+1907  VENICE_O|F_PHILADELPHIA    VENICE OF PHILADELPHIA             3
+1908  VENUS   |                  VENUS                              3
+1909  VERNON  |                  VERNON                            10
+1910  VERSAILL|ES                VERSAILLES                         3
+1911  VESPASIA|N                 VESPASIAN                          1
+1912  VESPER  |                  VESPER                             6
+1913  VESTA   |                  VESTA                              1
+1914  VESUVIUS|                  VESUVIUS                           2
+1915  VICKSBUR|G                 VICKSBURG                         18
+1916  VICTOR  |                  VICTOR                             3
+1917  VICTORIA|                  VICTORIA                           4
+1918  VICTORY |                  VICTORY                           15
+1919  VIGO    |                  VIGO                               1
+1920  VIKING  |                  VIKING                             3
+1921  VILLAGE_|BELLE             VILLAGE BELLE                      1
+1922  VINCENNE|S                 VINCENNES                         64
+1923  VINEYARD|_OF_EDGARTOWN     VINEYARD OF EDGARTOWN              1
+1924  VINTAGE |                  VINTAGE                            1
+1926  VIRGIN*N|                  VIRGINIAN                         25
+1925  VIRGINIA|                  VIRGINIA                          20
+1927  VISION  |                  VISION                             3
+1928  VOEVODA |                  VOEVODA                           10
+1929  VULCAN  |                  VULCAN                             2
+1930  VULTURE |                  VULTURE                            8
+1931  W.BARGH |                  W.BARGH                            1
+1932  W.D.MILL|ER                W.D.MILLER                         3
+1933  W.H.D.C.|WRIGHT            W.H.D.C.WRIGHT                     7
+1934  W.H.SHAI|LER               W.H.SHAILER                        1
+1935  WABASH  |                  WABASH                             2
+1936  WAGRAM  |                  WAGRAM                             5
+1937  WAKULLA |                  WAKULLA                            3
+1938  WALLACE |                  WALLACE                            6
+1939  WALPOLE |                  WALPOLE                           18
+1940  WALTER_F|RANCES            WALTER FRANCES                     1
+1941  WALTER_S|COTT              WALTER SCOTT                       1
+1942  WAMPANOA|G                 WAMPANOAG                          3
+1943  WANDERER|                  WANDERER                           5
+1944  WARREN  |                  WARREN                             7
+1945  WARREN_W|HITE              WARREN WHITE                       2
+1946  WARRICK |                  WARRICK                            3
+1947  WARRINGT|ON                WARRINGTON                         2
+1948  WARRIOR |                  WARRIOR                            1
+1949  WARSAW  |                  WARSAW                             5
+1950  WARWICK |                  WARWICK                            1
+1951  WASHINGT|ON                WASHINGTON                       155
+1953  WATERLOO|                  WATERLOO                          14
+1952  WATER_WI|TCH               WATER WITCH                        5
+1954  WAVE    |                  WAVE                               1
+1955  WAVERLY |                  WAVERLY                            6
+1956  WEATHER_|GAGE              WEATHER GAGE                       3
+1957  WELLINGT|ON                WELLINGTON                         4
+1958  WESSACAM|CON               WESSACAMCON                        3
+1961  WESTE*_C|ONTINENT          WESTERN CONTINENT                  6
+1962  WESTE*_S|TAR               WESTERN STAR                       3
+1963  WESTMINS|TER               WESTMINSTER                       16
+1964  WESTWARD|_HO               WESTWARD HO                        2
+1959  WEST_POI|NT                WEST POINT                        16
+1960  WEST_WIN|D                 WEST WIND                          3
+1965  WEYBOSSE|T                 WEYBOSSET                          4
+1966  WEYMOUTH|                  WEYMOUTH                           5
+1967  WHISTLER|                  WHISTLER                           3
+1968  WHITE_SQ|UALL              WHITE SQUALL                       7
+1969  WHITE_SW|ALLOW             WHITE SWALLOW                      8
+1970  WHITON  |                  WHITON                             4
+1971  WILD_DUC|K                 WILD DUCK                          6
+1972  WILD_PIG|EON               WILD PIGEON                       16
+1973  WILD_RAN|GER               WILD RANGER                        4
+1974  WILL    |                  WILL                               1
+1976  WILLI*_S|MITH              WILLIAM SMITH                      8
+1977  WILLI*_T|ELL               WILLIAM TELL                       1
+1975  WILLIAM |                  WILLIAM                            7
+1978  WILLWAM&|ELIZA             WILLWAM & ELIZA                    1
+1979  WILMINGT|ON                WILMINGTON                         2
+1980  WINDWARD|                  WINDWARD                           1
+1981  WINFIELD|_SCOTT            WINFIELD SCOTT                    10
+1982  WINGED_A|RROW              WINGED ARROW                       4
+1983  WINGED_R|ACER              WINGED RACER                       1
+1984  WINGS_OF|_THE_MORNING      WINGS OF THE MORNING               9
+1985  WINSLOW |                  WINSLOW                            3
+1986  WINTHROP|                  WINTHROP                           2
+1987  WISCONSI|N                 WISCONSIN                         23
+1988  WISSHAUC|KON               WISSHAUCKON                        2
+1989  WITCH_OF|_THE_WAVES        WITCH OF THE WAVES                 7
+1990  WIZARD  |                  WIZARD                             9
+1993  WM.BADGE|R                 WM.BADGER                          4
+1994  WM.BAKER|                  WM.BAKER                           1
+1991  WM.CHASE|                  WM. CHASE                          1
+1995  WM.FROTH|INGHAM            WM.FROTHINGHAM                     5
+1992  WM.G.LEW|IS                WM. G. LEWIS                       2
+1996  WM.G.RIC|HARDSON           WM.G.RICHARDSON                    3
+1997  WM.GODDA|RD                WM.GODDARD                         4
+1998  WM.HAMIL|TON               WM.HAMILTON                        7
+1999  WM.HENRY|                  WM.HENRY                           2
+2000  WM.JONES|                  WM.JONES                           6
+2001  WM.PITT |                  WM.PITT                            3
+2002  WM.PRICE|_OF_PHILADELPHIA  WM.PRICE OF PHILADELPHIA           2
+2003  WM.STURG|IS                WM.STURGIS                         2
+2004  WOODSIDE|                  WOODSIDE                           3
+2005  WYMAN   |                  WYMAN                              3
+2006  YARMOUTH|                  YARMOUTH                           2
+2007  YORK    |                  YORK                               2
+2008  YORKSHIR|E                 YORKSHIRE                          9
+2009  YORKTOWN|                  YORKTOWN                          34
+2010  YOUNG_AM|ERICA             YOUNG AMERICA                      5
+2013  YOUNG_GR|EEK               YOUNG GREEK                        3
+2014  YOUNG_HE|RO                YOUNG HERO                         9
+2015  YOUNG_PH|OENIX             YOUNG PHOENIX                     30
+2016  YUNCHI_M|OMCHI             YUNCHI MOMCHI                      1
+2011  Y_EAG*  |                  YOUNG EAGLE                        7
+2012  Y_EAG*_N|ANTUCKET          YOUNG EAGLE OF NANTUCKET          14
+2017  Z.D.OF_B|OSTON             Z.D.OF BOSTON                      5
+2018  ZAINE   |                  ZAINE                              3
+2019  ZENOBIA |                  ZENOBIA                           11
+2020  ZEPHYR  |                  ZEPHYR                             4

@@ -1,0 +1,7 @@
+{
+  "dck": 221,
+  "patterns": {
+    "MARID": "^[0-9]{5}$"
+  },
+  "corrections": {}
+}

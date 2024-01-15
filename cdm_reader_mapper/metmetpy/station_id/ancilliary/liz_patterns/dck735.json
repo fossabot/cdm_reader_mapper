@@ -1,0 +1,9 @@
+{
+  "dck": 735,
+  "patterns": {
+    "id_5digit_RusRV": "^[0-9]{5}$",
+    "id_4digit_RusRV": "^[0-9]{4}$",
+    "callsign_RusRV": "^([0-9]{1}[A-Z]{1}|^[A-Z]{1}[0-9]{1}|^[A-Z]{2})[A-Z0-9]{1,}$"
+  },
+  "corrections": {}
+}

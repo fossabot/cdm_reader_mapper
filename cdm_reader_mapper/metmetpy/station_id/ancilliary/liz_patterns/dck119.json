@@ -1,0 +1,7 @@
+{
+  "dck": 119,
+  "patterns": {
+    "year_ship": "^[0-9]{6}$"
+  },
+  "corrections": {}
+}

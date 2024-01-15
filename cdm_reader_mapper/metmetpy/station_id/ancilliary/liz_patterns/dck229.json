@@ -1,0 +1,7 @@
+{
+  "dck": 229,
+  "patterns": {
+    "HMS": "^[0-9]{5}$"
+  },
+  "corrections": {}
+}

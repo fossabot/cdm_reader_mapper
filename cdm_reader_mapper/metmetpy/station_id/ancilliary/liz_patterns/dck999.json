@@ -1,0 +1,9 @@
+{
+  "dck": 999,
+  "patterns": {
+    "blank": "^$"
+  },
+  "corrections": {},
+  "valid_min_date": "",
+  "valid_max_date": ""
+}

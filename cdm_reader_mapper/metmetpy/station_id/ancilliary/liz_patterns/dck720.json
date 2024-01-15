@@ -1,0 +1,9 @@
+{
+  "dck": 720,
+  "patterns": {
+    "id_8digit": "^[0-9]{8}$",
+    "id_7digit_pership": "^[0-9]{7}$",
+    "id_5digit_pership": "^[0-9]{5}$"
+  },
+  "corrections": {}
+}

@@ -1,0 +1,7 @@
+{
+  "dck": 740,
+  "patterns": {
+    "callsign_samos": "^([0-9]{1}[A-Z]{1}|^[A-Z]{1}[0-9]{1}|^[A-Z]{2})[A-Z0-9]{1,}$"
+  },
+  "corrections": {}
+}

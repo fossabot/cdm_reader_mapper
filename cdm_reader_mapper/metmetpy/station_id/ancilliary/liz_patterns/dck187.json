@@ -1,0 +1,8 @@
+{
+  "dck": 187,
+  "patterns": {
+    "shipnumber_season": "^[0-9]{2}[0-9]{2}$"
+  },
+  "corrections": {},
+  "notes": "ship names available, see documentation"
+}

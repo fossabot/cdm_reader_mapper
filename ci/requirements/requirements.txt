@@ -1,0 +1,10 @@
+matplotlib
+pandas>=2.1.0
+dask
+distributed
+datashader
+msgpack
+requests
+xarray
+timezonefinder
+unidecode

@@ -1,0 +1,7 @@
+{
+  "dck": 762,
+  "patterns": {
+    "Kobe_id": "^[0-9]{4}[A-Z]$"
+  },
+  "corrections": {}
+}

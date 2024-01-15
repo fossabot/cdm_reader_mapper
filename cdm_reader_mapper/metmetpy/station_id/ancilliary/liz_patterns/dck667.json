@@ -1,0 +1,7 @@
+{
+  "dck": 667,
+  "patterns": {
+    "IATTC_number": "^[0-9]{3,4}$"
+  },
+  "corrections": {}
+}
