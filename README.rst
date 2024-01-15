@@ -101,36 +101,36 @@ For a detailed guide on how to build a cdm and write the output of the `cdm.map_
 
 .. _python: https://www.python.org
 
-.. |build| image:: https://github.com/ludwiglierhammer/cdm_reader_mapper/actions/workflows/ci.yml/badge.svg
-        :target: https://github.com/ludwiglierhammer/cdm_reader_mapper/actions/workflows/ci.yml
+.. |build| image:: https://github.com/glamod/cdm_reader_mapper/actions/workflows/ci.yml/badge.svg
+        :target: https://github.com/glamod/cdm_reader_mapper/actions/workflows/ci.yml
         :alt: Build Status
 
 .. |black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
         :target: https://github.com/psf/black
         :alt: Python Black
 
-.. |coveralls| image:: https://codecov.io/gh/ludwiglierhammer/cdm_reader_mapper/branch/master/graph/badge.svg
-	      :target: https://codecov.io/gh/ludwiglierhammer/cdm_reader_mapper
+.. |coveralls| image:: https://codecov.io/gh/glamod/cdm_reader_mapper/branch/master/graph/badge.svg
+	      :target: https://codecov.io/gh/glamod/cdm_reader_mapper
 	      :alt: Coveralls
 
 .. |docs| image:: https://readthedocs.org/projects/cdm_reader_mapper/badge/?version=latest
         :target: https://cdm-reader-mapper.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-.. |fossa| image:: https://app.fossa.com/api/projects/git%2Bgithub.com%2Fludwiglierhammer%2Fcdm_reader_mapper.svg?type=shield
-        :target: https://app.fossa.com/projects/git%2Bgithub.com%2Fludwiglierhammer%2Fcdm_reader_mapper?ref=badge_shield
+.. |fossa| image:: https://app.fossa.com/api/projects/git%2Bgithub.com%2Fglamod%2Fcdm_reader_mapper.svg?type=shield
+        :target: https://app.fossa.com/projects/git%2Bgithub.com%2Fglamod%2Fcdm_reader_mapper?ref=badge_shield
         :alt: FOSSA
 
 .. |funding| image:: https://img.shields.io/badge/Powered%20by-Copernicus-blue.svg
         :target: https://climate.copernicus.eu/
         :alt: Funding
 
-.. |license| image:: https://img.shields.io/github/license/ludwiglierhammer/cdm_reader_mapper.svg
-        :target: https://github.com/ludwiglierhammer/cdm_reader_mapper/blob/master/LICENSE
+.. |license| image:: https://img.shields.io/github/license/glamod/cdm_reader_mapper.svg
+        :target: https://github.com/glamod/cdm_reader_mapper/blob/master/LICENSE
         :alt: License
 
-.. |pre-commit| image:: https://results.pre-commit.ci/badge/github/ludwiglierhammer/cdm_reader_mapper/master.svg
-        :target: https://results.pre-commit.ci/latest/github/ludwiglierhammer/cdm_reader_mapper/master
+.. |pre-commit| image:: https://results.pre-commit.ci/badge/github/glamod/cdm_reader_mapper/master.svg
+        :target: https://results.pre-commit.ci/latest/github/glamod/cdm_reader_mapper/master
         :alt: pre-commit.ci status
 
 .. |pypi| image:: https://img.shields.io/pypi/v/cdm_reader_mapper.svg
@@ -145,12 +145,12 @@ For a detailed guide on how to build a cdm and write the output of the `cdm.map_
         :target: https://www.repostatus.org/#wip
         :alt: Project Status: WIP: Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.
 
-.. |release| image:: https://img.shields.io/github/v/release/ludwiglierhammer/cdm_reader_mapper.svg
-        :target: https://github.com/ludwiglierhammer/cdm_reader_mapper/releases
+.. |release| image:: https://img.shields.io/github/v/release/glamod/cdm_reader_mapper.svg
+        :target: https://github.com/glamod/cdm_reader_mapper/releases
         :alt: Release
 
-.. |tag| image:: https://img.shields.io/github/v/tag/ludwiglierhammer/cdm_reader_mapper.svg
-        :target: https://github.com/ludwiglierhammer/cdm_reader_mapper/tags
+.. |tag| image:: https://img.shields.io/github/v/tag/glamod/cdm_reader_mapper.svg
+        :target: https://github.com/glamod/cdm_reader_mapper/tags
         :alt: Tag
 
 .. |versions| image:: https://img.shields.io/pypi/pyversions/cdm_reader_mapper.svg
