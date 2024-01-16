@@ -97,7 +97,7 @@ For a detailed guide on how to build a cdm and write the output of the `cdm.map_
 
 .. _IMMA: https://icoads.noaa.gov/e-doc/imma/R3.0-imma1.pdf
 
-.. _jupyter notebooks: https://github.com/glamod/mdf_reader/tree/master/docs/example_notebooks
+.. _jupyter notebooks: https://github.com/glamod/cdm_reader_mapper/tree/main/docs/example_notebooks
 
 .. _python: https://www.python.org
 
@@ -109,7 +109,7 @@ For a detailed guide on how to build a cdm and write the output of the `cdm.map_
         :target: https://github.com/psf/black
         :alt: Python Black
 
-.. |coveralls| image:: https://codecov.io/gh/glamod/cdm_reader_mapper/branch/master/graph/badge.svg
+.. |coveralls| image:: https://codecov.io/gh/glamod/cdm_reader_mapper/branch/main/graph/badge.svg
 	      :target: https://codecov.io/gh/glamod/cdm_reader_mapper
 	      :alt: Coveralls
 
@@ -126,11 +126,11 @@ For a detailed guide on how to build a cdm and write the output of the `cdm.map_
         :alt: Funding
 
 .. |license| image:: https://img.shields.io/github/license/glamod/cdm_reader_mapper.svg
-        :target: https://github.com/glamod/cdm_reader_mapper/blob/master/LICENSE
+        :target: https://github.com/glamod/cdm_reader_mapper/blob/main/LICENSE
         :alt: License
 
-.. |pre-commit| image:: https://results.pre-commit.ci/badge/github/glamod/cdm_reader_mapper/master.svg
-        :target: https://results.pre-commit.ci/latest/github/glamod/cdm_reader_mapper/master
+.. |pre-commit| image:: https://results.pre-commit.ci/badge/github/glamod/cdm_reader_mapper/main.svg
+        :target: https://results.pre-commit.ci/latest/github/glamod/cdm_reader_mapper/main
         :alt: pre-commit.ci status
 
 .. |pypi| image:: https://img.shields.io/pypi/v/cdm_reader_mapper.svg
